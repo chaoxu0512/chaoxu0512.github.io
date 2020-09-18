@@ -13,7 +13,7 @@ header-img: "img/photography-bg.jpg"
 
 <!-- Chinese Version -->
 <div class="zh post-container">
-    {% capture about_zh %}{% includes about/zh.md %}{% endcapture %}
+    {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
     {{ about_zh | markdownify }}
     <!--copied from markdown -->
 <!--     <blockquote>
