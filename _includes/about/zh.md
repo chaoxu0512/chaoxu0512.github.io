@@ -4,6 +4,6 @@
 > 
 > Don't think too much, just do it now.
 
-Welcome to visit, I'm Chao Xu! 
+大家好，我叫徐超！
 
-**What I want to achieve is to make beautiful and creative ideas come to our REAL WORLD.**  
+生活不易，负重前行的同时，也请不要忘记观察身边的风景~
