@@ -6,8 +6,4 @@
 
 Welcome to visit, I'm Chao Xu! 
 
-The course modules I studied include Applied Optics, Physical Optics, Computational Optical Imaging Technology, Super Resolved Sensing, Optical Devices and Simulation of System, Semiconductor Physics Devices, and more. 
-
-I have some software experiences in Python, Matlab, AutoCAD and Adobe Suites.   
-
 **What I want to achieve is to make beautiful and creative ideas come to our REAL WORLD.**  
