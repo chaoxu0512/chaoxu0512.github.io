@@ -12,7 +12,7 @@ tags:
 
 You can find this paper [here](https://www.nature.com/articles/s41598-019-40608-4) if you are interested.
 
-`Traction force microscopy (TFM)` plays an important role to quantify `cellular traction forces (CTFs)`, which help access the physiological processes and diseases. Here, traction force `optical coherence microscopy (TF-OCM)` is proposed to reconstruct 3D CTFs quantitatively in scattering media with minute-scale temporal sampling. In this method, the techniques of optical coherence microscopy and `computational adaptive optics (CAO)` are integrated. The experiment shows high-through, label-free, volumetric imaging in scattering media, which may prove TF-OCT advantageous for the study of large cell collectives.
+`Traction force microscopy (TFM)` plays an important role to quantify `cellular traction forces (CTFs)`, which help access the physiological processes and diseases. Here, `traction force optical coherence microscopy (TF-OCM)` is proposed to reconstruct 3D CTFs quantitatively in scattering media with minute-scale temporal sampling. In this method, the techniques of optical coherence microscopy and `computational adaptive optics (CAO)` are integrated. The experiment shows high-through, label-free, volumetric imaging in scattering media, which may prove TF-OCT advantageous for the study of large cell collectives.
 
 ``Confocal fluorescence microscopy (CFM)`` is mainly employed to perform 3D TFM imaging.  However, the modality set a series of obstacles on TFM, including limited penetration depth, slow image acquisition speed, and high complexity by photobleaching and phototoxicity.
 
