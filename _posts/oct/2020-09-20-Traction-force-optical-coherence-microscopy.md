@@ -21,6 +21,6 @@ The advantages of TF-OCM:
 -  focal plane resolution over a large depth-of-field (thanks to CAO).
 - label-free imaging with extended penetration depth (due to OCM at NIR wavelength). 
 
-In summary, the authors showed that OCM images reconstructed with CAO techniques could be used to quantify time-varying 3D CTFs.  This was achieved by analyzing the OCM images, which were obtained with five-minute temporal sampling and a 500 \times 500 \times 500 um^{3} field-of-view (FOV). In addition, a computational image formation procedure was developed to mitigate the artifacts in OCM images. 
+In summary, the authors showed that OCM images reconstructed with CAO techniques could be used to quantify time-varying 3D CTFs.  This was achieved by analyzing the OCM images, which were obtained with five-minute temporal sampling and a ${\text{500}} \times {\text{500}} \times {\text{500}}\mu {m^3}$ `field-of-view (FOV)`. In addition, a computational image formation procedure was developed to mitigate the artifacts in OCM images. 
 
 However, the authors mentioned that they <u>had not yet developed the full experimental and data processing methods required to obtain quantitative reconstructions of time-varying CTFs with TF-OCM</u>.
