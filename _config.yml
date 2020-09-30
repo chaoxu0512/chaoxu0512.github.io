@@ -18,7 +18,7 @@ sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-# weibo_username:     chaoxu
+weibo_username:     6590319358
 zhihu_username:     jin-tian-ni-chi-nian-gao-liao-yao
 github_username:    chaoxu0512
 facebook_username:  chao.xu.3517
@@ -105,8 +105,8 @@ page-mathjax: true
 # Friends
 friends: [
     {
-        title: "简书",
-        href: "http://www.jianshu.com/u/4097902ff44b"
+        title: "微博",
+        href: "https://weibo.com/u/6590319358"
     },{
         title: "知乎",
         href: "https://www.zhihu.com/people/jin-tian-ni-chi-nian-gao-liao-yao"
