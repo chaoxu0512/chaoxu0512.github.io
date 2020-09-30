@@ -62,7 +62,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: chaoxu0512
+disqus_username: chaoxu0512
 
 # Gitalk
 #gitalk:
