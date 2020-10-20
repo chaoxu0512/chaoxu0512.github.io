@@ -74,7 +74,31 @@ In order to detect optical echoes, a low-coherence (broad bandwidth) light sourc
 
 ### 1.4.1 Early OCT Technology and Systems
 
-**[Optic  nerve head](https://en.wikipedia.org/wiki/Optic_disc)** : also called **optic disc**. It is the point of exit for [ganglion cell](https://en.wikipedia.org/wiki/Retinal_ganglion_cell) [axons](https://en.wikipedia.org/wiki/Axons) leaving the [eye](https://en.wikipedia.org/wiki/Human_eye). Because there are no [rods](https://en.wikipedia.org/wiki/Rod_cell) or [cones](https://en.wikipedia.org/wiki/Cone_cell) overlying the optic disc, it corresponds to a small [blind spot](https://en.wikipedia.org/wiki/Blind_spot_(vision)) in each eye. The ganglion cell axons form the [optic nerve](https://en.wikipedia.org/wiki/Optic_nerve) after they leave the eye. The optic disc represents the beginning of the optic nerve and is the point where the axons of retinal [ganglion](https://en.wikipedia.org/wiki/Ganglion) cells come together. The optic disc is also the entry point for the major blood vessels that supply the [retina](https://en.wikipedia.org/wiki/Retina). The optic disc in a normal human eye carries 1–1.2 million [afferent nerve fibers](https://en.wikipedia.org/wiki/Afferent_nerve_fiber) from the eye towards the brain.
+**[Optic  nerve head](https://en.wikipedia.org/wiki/Optic_disc)** : also called **optic disc**. It is the point of exit for **[retinal ganglion cell](https://en.wikipedia.org/wiki/Retinal_ganglion_cell)** **[axons](https://en.wikipedia.org/wiki/Axons)** leaving the eye. Because there are no [rods](https://en.wikipedia.org/wiki/Rod_cell) or [cones](https://en.wikipedia.org/wiki/Cone_cell) overlying the optic disc, it corresponds to a small [blind spot](https://en.wikipedia.org/wiki/Blind_spot_(vision)) in each eye. The ganglion cell axons form the [optic nerve](https://en.wikipedia.org/wiki/Optic_nerve) after they leave the eye. The optic disc represents the beginning of the optic nerve and is the point where the axons of retinal ganglion cells come together. The optic disc is also the entry point for the major blood vessels that supply the **[retina](https://en.wikipedia.org/wiki/Retina)**. The optic disc in a normal human eye carries 1–1.2 million [afferent nerve fibers](https://en.wikipedia.org/wiki/Afferent_nerve_fiber) from the eye towards the brain.
+
+**[Axon](https://en.wikipedia.org/wiki/Axon)**: also called **nerve fiber**, is a long, slender projection of a nerve cell, or neuron, in vertebrates, that typically conducts electrical impulses known as [action potentials](https://en.wikipedia.org/wiki/Action_potential) away from the nerve cell body.
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Neuron.svg">
+    Diagram of neuron (from Wikipedia)
+</p>
+
+**[Retinal ganglion cell](https://en.wikipedia.org/wiki/Retinal_ganglion_cell)**: a type of neuron located near the inner surface (the ganglion cell layer) of the **[retina](https://en.wikipedia.org/wiki/Retina)** of the eye. It receives visual information from [photoreceptors](https://en.wikipedia.org/wiki/Photoreceptor_cell) via two intermediate neuron types: [bipolar cells](https://en.wikipedia.org/wiki/Bipolar_cell_of_the_retina) and [retina amacrine cells](https://en.wikipedia.org/wiki/Retina_amacrine_cell). Retina amacrine cells, particularly narrow field cells, are important for creating functional subunits within the ganglion cell layer and making it so that ganglion cells can observe a small dot moving a small distance.
+
+**[Retina](https://en.wikipedia.org/wiki/Retina)**: the vertebrate retina has ten distinct layers. From closest to farthest from the vitreous body:
+
+| Layer                                                        | Note                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Inner limiting membrane](https://en.wikipedia.org/wiki/Inner_limiting_membrane) | basement membrane                                            |
+| [Nerve fibre layer](https://en.wikipedia.org/wiki/Nerve_fiber_layer) | axons of the ganglion cell bodies                            |
+| [Ganglion cell layer](https://en.wikipedia.org/wiki/Ganglion_cell_layer) | contains nuclei of ganglion cells, the axons of which become the optic nerve fibres, and some displaced amacrine cells |
+| [Inner plexiform layer](https://en.wikipedia.org/wiki/Inner_plexiform_layer) | contains the synapse between the bipolar cell axons and the dendrites of the ganglion and amacrine cells |
+| [Inner nuclear layer](https://en.wikipedia.org/wiki/Inner_nuclear_layer) | contains the nuclei and surrounding cell bodies (perikarya) of the amacrine cells, bipolar cells, and [horizontal cells](https://en.wikipedia.org/wiki/Retina_horizontal_cell) |
+| [Outer plexiform layer](https://en.wikipedia.org/wiki/Outer_plexiform_layer) | projections of rods and cones ending in the rod spherule and cone pedicle, respectively. These make synapses with dendrites of bipolar cells and horizontal cells. |
+| [Outer nuclear layer](https://en.wikipedia.org/wiki/Outer_nuclear_layer) | cell bodies of rods and cones.                               |
+| [External limiting membrane](https://en.wikipedia.org/wiki/External_limiting_membrane) | layer that separates the inner segment portions of the photoreceptors from their cell nuclei. |
+| Inner segment / outer segment layer                          | inner segments and outer segments of rods and cones. The outer segments contain a highly specialized light-sensing apparatus. |
+| [Retinal pigment epithelium](https://en.wikipedia.org/wiki/Retinal_pigment_epithelium) | single layer of cuboidal epithelial cells (with extrusions not shown in diagram). This layer is closest to the choroid, and provides nourishment and supportive functions to the neural retina |
 
 ## Reference
 
