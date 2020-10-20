@@ -74,6 +74,8 @@ In order to detect optical echoes, a low-coherence (broad bandwidth) light sourc
 
 ### 1.4.1 Early OCT Technology and Systems
 
+**[Optic  nerve head](https://en.wikipedia.org/wiki/Optic_disc)** : also called **optic disc**. It is the point of exit for [ganglion cell](https://en.wikipedia.org/wiki/Retinal_ganglion_cell) [axons](https://en.wikipedia.org/wiki/Axons) leaving the [eye](https://en.wikipedia.org/wiki/Human_eye). Because there are no [rods](https://en.wikipedia.org/wiki/Rod_cell) or [cones](https://en.wikipedia.org/wiki/Cone_cell) overlying the optic disc, it corresponds to a small [blind spot](https://en.wikipedia.org/wiki/Blind_spot_(vision)) in each eye. The ganglion cell axons form the [optic nerve](https://en.wikipedia.org/wiki/Optic_nerve) after they leave the eye. The optic disc represents the beginning of the optic nerve and is the point where the axons of retinal [ganglion](https://en.wikipedia.org/wiki/Ganglion) cells come together. The optic disc is also the entry point for the major blood vessels that supply the [retina](https://en.wikipedia.org/wiki/Retina). The optic disc in a normal human eye carries 1–1.2 million [afferent nerve fibers](https://en.wikipedia.org/wiki/Afferent_nerve_fiber) from the eye towards the brain.
+
 ## Reference
 
 [Optical Coherence Tomography-Technology and Applications](https://www.springer.com/gp/book/9783319064185)
