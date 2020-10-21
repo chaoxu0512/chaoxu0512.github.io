@@ -133,7 +133,7 @@ When the light changes its polarization states by a mirror or biological tissues
 </p>
 When the light first emits from  the 50/50 beam splitter, and goes into the sample  and reference arm, respectively,
 
-$$\left \lbrace {\begin{array}{*{20}{l}}
+$$\left\{ {\begin{array}{*{20}{c}}
 {{E_{r1}} = \frac{1}{{\sqrt 2 }}{E_{so}}}\\
 {{E_{s1}} = \frac{i}{{\sqrt 2 }}{E_{so}}}
 \end{array}} \right.$$
