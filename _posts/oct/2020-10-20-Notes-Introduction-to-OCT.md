@@ -187,24 +187,6 @@ $$
 $$
 $\ref{eq-intensity}$
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[ref](\label{eq-intensity})  qq
-
 ## Reference
 
 [1] [Optical Coherence Tomography-Technology and Applications](https://www.springer.com/gp/book/9783319064185)
