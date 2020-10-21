@@ -157,9 +157,9 @@ where ${E_R} =  - i \cdot \frac{{{r_r}}}{2}{E_{so}}$, and ${E_S} =  - i \cdot \f
 
 The irradiance approaching the detector arm is obtained,
 
-$${{I_D} = \left\langle {{E_D} \cdot E_D^*} \right\rangle }$$
+$${I_D} =  < {E_D} \cdot E_D^* > $$
 
-$${{I_D} = \left\langle {{E_R} \cdot E_R^*} \right\rangle  + \left\langle {{E_S} \cdot E_S^*} \right\rangle  + {E_R}E_S^*{e^{ - i2k{l_r} + i2k{l_s}}} + {E_S}E_R^*{e^{ - i2k{l_s} + i2k{l_r}}}}$$
+$${I_D} =  < {E_R} \cdot E_R^* >  +  < {E_S} \cdot E_S^* >  + {E_R}E_S^*{e^{ - i2k{l_r} + i2k{l_s}}} + {E_S}E_R^*{e^{ - i2k{l_s} + i2k{l_r}}}$$
 
 $${{I_D} = {I_R} + {I_S} + {\rm{Re}}\left\{ {\gamma {{\left( z \right)}_{11}}\sqrt {{I_R}{I_S}} \left[ {{e^{i2k\left( {{l_s} - {l_r}} \right)}} + {e^{i2k\left( {{l_r} - {l_s}} \right)}}} \right]} \right\}}$$
 
