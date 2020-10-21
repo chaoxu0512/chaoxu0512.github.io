@@ -161,9 +161,11 @@ $${I_D} =  < {E_D} \cdot E_D^* > $$
 
 $${I_D} =  < {E_R} \cdot E_R^* >  +  < {E_S} \cdot E_S^* >  + {E_R}\cdot E_S^* \cdot {e^{ - i2k{l_r} + i2k{l_s}}} + {E_S}\cdot E_R^* \cdot {e^{ - i2k{l_s} + i2k{l_r}}}$$
 
-$${I_D} = {I_R} + {I_S} + {\rm{Re}}(\gamma {(z)_{11}} \cdot \sqrt {{I_R} \cdot {I_S}}  \cdot ({e^{i2k({l_s} - {l_r})}} + {e^{i2k({l_r} - {l_s})}}))$$
 
 
+For TD-OCT, the reference mirror is moving with a velocity of ${v_m} = \frac{{\Delta l}}{t}$, and thus creates a Doppler or frequency shift ${f_D} = \frac{{2{v_m}}}{\lambda }$ in the signal. Therefore, we obtain the irradiance,
+
+$${I_D} = {I_R} + {I_S} + 2{\rm{Re(}}\gamma {\left( z \right)_{11}} \cdot \sqrt {{I_R}{I_S}}  \cdot \cos (2\pi {f_D}t){\rm{)}}$$
 
 ## Reference
 
