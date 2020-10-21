@@ -155,6 +155,18 @@ $${E_D} = {E_{r3}} + {E_{s3}} = {E_R} \cdot {e^{ - i2k{l_r}}} + {E_S} \cdot {e^{
 
 where ${E_R} =  - i \cdot \frac{{{r_r}}}{2}{E_{so}}$, and ${E_S} =  - i \cdot \frac{{{r_s}}}{2}{E_{so}}$.
 
+The irradiance approaching the detector arm is obtained,
+
+$${I_D} =  < {E_D} \cdot E_D^* > $$
+
+$${I_D} =  < {E_R} \cdot E_R^* >  +  < {E_S} \cdot E_S^* >  + {E_R}\cdot E_S^* \cdot {e^{ - i2k{l_r} + i2k{l_s}}} + {E_S}\cdot E_R^* \cdot {e^{ - i2k{l_s} + i2k{l_r}}}$$
+
+$${I_D} = {I_R} + {I_S} + {\rm{Re(}}\gamma {\left( z \right)_{11}} \cdot \sqrt {{I_R}\cdot{I_S}}  \cdot ({e^{i2k\left( {{l_s} - {l_r}} \right)}} + {e^{i2k\left( {{l_r} - {l_s}} \right)}}{\rm{))}}$$
+
+$${I_D} = {I_R} + {I_S} + 2{\rm{Re(}}\gamma {\left( z \right)_{11}} \cdot \sqrt {{I_R}\cdot{I_S}}  \cdot \cos (2k\Delta l){\rm{)}}$$
+
+where ${\Delta l}={l_r}-{l_s}$, and ${\gamma {{\left( z \right)}_{11}}}$ is the degree of coherence.
+
 ## Reference
 
 [1] [Optical Coherence Tomography-Technology and Applications](https://www.springer.com/gp/book/9783319064185)
