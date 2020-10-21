@@ -145,7 +145,7 @@ $${{E_{s2}} =  - {r_s} \cdot \frac{i}{{\sqrt 2 }}{E_{so}} \cdot {e^{ - ik{l_s}}}
 
 When the light arrive at the beam splitter for second time (from sample and reference arm), and it goes into the detector arm,
 
-$${{E_{r3}} = \frac{i}{{\sqrt 2 }}{E_{r2}} \cdot {e^{ - ik{l_r}}} =  - i \cdot \frac{{{r_r}}}{2}{E_{so}} \cdot {e^{ - i2k{l_r}}}}$$
+$${E_{r3}} = \frac{i}{{\sqrt 2 }}{E_{r2}} \cdot \exp ( - ik{l_r}) =  - i \cdot \frac{{{r_r}}}{2}{E_{so}} \cdot \exp ( - i2k{l_r})$$
 
 $${{E_{s3}} = \frac{1}{{\sqrt 2 }}{E_{s2}} \cdot {e^{ - ik{l_s}}} =  - i \cdot \frac{{{r_s}}}{2}{E_{so}} \cdot {e^{ - i2k{l_s}}}}$$
 
