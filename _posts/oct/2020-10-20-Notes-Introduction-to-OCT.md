@@ -177,7 +177,7 @@ $$\left\{ {\begin{array}{*{20}{l}}
 
 For TD-OCT, the reference mirror is moving with a velocity of ${v_m} = \frac{{\Delta l}}{t}$, and thus creates a Doppler or frequency shift ${f_D} = \frac{{2{v_m}}}{\lambda }$ in the signal. Therefore, we obtain the irradiance,
 
-$${I_D} = {I_R} + {I_S} + 2{\mathop{\rm Re}\nolimits} \left\{ {\gamma {{\left( z \right)}_{11}}\sqrt {{I_R}{I_S}} \cos \left( {2\pi {f_D}t} \right)} \right\}$$
+${I_D} = {I_R} + {I_S} + 2{\mathop{\rm Re}\nolimits} \left\{ {\gamma {{\left( z \right)}_{11}}\sqrt {{I_R}{I_S}} \cos \left( {2\pi {f_D}t} \right)} \right\}$
 
 ## Reference
 
