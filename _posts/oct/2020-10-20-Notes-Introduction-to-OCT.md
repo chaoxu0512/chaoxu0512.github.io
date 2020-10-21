@@ -80,8 +80,9 @@ In order to detect optical echoes, a low-coherence (broad bandwidth) light sourc
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Neuron.svg">
-    Diagram of neuron (from Wikipedia)
+    Diagram of neuron (From Wikipedia)
 </p>
+
 
 **[Retinal ganglion cell](https://en.wikipedia.org/wiki/Retinal_ganglion_cell)**: a type of neuron located near the inner surface (the ganglion cell layer) of the **[retina](https://en.wikipedia.org/wiki/Retina)** of the eye. It receives visual information from [photoreceptors](https://en.wikipedia.org/wiki/Photoreceptor_cell) via two intermediate neuron types: [bipolar cells](https://en.wikipedia.org/wiki/Bipolar_cell_of_the_retina) and [retina amacrine cells](https://en.wikipedia.org/wiki/Retina_amacrine_cell). Retina amacrine cells, particularly narrow field cells, are important for creating functional subunits within the ganglion cell layer and making it so that ganglion cells can observe a small dot moving a small distance.
 
@@ -100,6 +101,112 @@ In order to detect optical echoes, a low-coherence (broad bandwidth) light sourc
 | Inner segment / outer segment layer                          | inner segments and outer segments of rods and cones. The outer segments contain a highly specialized light-sensing apparatus. |
 | [Retinal pigment epithelium](https://en.wikipedia.org/wiki/Retinal_pigment_epithelium) | single layer of cuboidal epithelial cells (with extrusions not shown in diagram). This layer is closest to the choroid, and provides nourishment and supportive functions to the neural retina |
 
+------
+
+**Michelson interferometer with a circulator for dual balanced detection**: dual balanced detection adds the signal form the interference of the sample and reference arms, and subtracts excess noise from the light source to improve efficiency. 
+
+Typical retinal images have signal levels of -50 to -90 dB of the incident intensity.
+
+**Q: The use of relatively longer wavelength light allows it to penetrate into the deeper scattering medium.  Formula? Scattering is used in OCT, but should also be reduced.**
+
+**A**: 
+
+### 1.4.2 Ophthalmic OCT Imaging
+
+## 1.5 Advances in Image Resolution
+
+### 1.5.1 Axial Resolution and Depth of Field
+
+The axial resolution of OCT is determined by the measurement resolution for echo time delay of light.
+
+To derive the formula of axial resolution mathematically,  I turn to the book [Optical Coherence Tomography - Principles and Applications](https://doi.org/10.1016/B978-0-12-133570-0.X5000-8).
+
+To start with time domain OCT, we refer to a monochromatic complex plane wave of this form:
+
+
+$$
+E_{s o}=E_{0} e^{-i k(\omega) z}
+$$
+
+where $k = 2\pi /\lambda $.
+
+When the light changes its polarization states by a mirror or biological tissues, the change can be expressed by multiplying the Jones vector and a 2 x 2 Jones matrix.
+
+<p align="center">
+<img src="https://i.loli.net/2020/10/21/IOtQVMJibDSEAq3.png">
+    a schematic of time domain OCT.(From Ref [2])
+</p>
+
+When the light first emits from  the 50/50 beam splitter, and goes into the sample  and reference arm, respectively,
+$$
+\left\{ {\begin{array}{*{20}{l}}
+{{E_{r1}} = \frac{1}{{\sqrt 2 }}{E_{so}}}\\
+{{E_{s1}} = \frac{i}{{\sqrt 2 }}{E_{so}}}
+\end{array}} \right.
+$$
+As the light propagates, it hits the sample or the mirror, and the light beam is reflected,
+$$
+\left\{ {\begin{array}{*{20}{l}}
+{{E_{r2}} =  - {r_r} \cdot \frac{1}{{\sqrt 2 }}{E_{so}} \cdot {e^{ - ik{l_r}}}}\\
+{{E_{s2}} =  - {r_s} \cdot \frac{i}{{\sqrt 2 }}{E_{so}} \cdot {e^{ - ik{l_s}}}}
+\end{array}} \right.
+$$
+When the light arrive at the beam splitter for second time (from sample and reference arm), and it goes into the detector arm,
+$$
+\left\{ {\begin{array}{*{20}{l}}
+{{E_{r3}} = \frac{i}{{\sqrt 2 }}{E_{r2}} \cdot {e^{ - ik{l_r}}} =  - i \cdot \frac{{{r_r}}}{2}{E_{so}} \cdot {e^{ - i2k{l_r}}}}\\
+{{E_{s3}} = \frac{1}{{\sqrt 2 }}{E_{s2}} \cdot {e^{ - ik{l_s}}} =  - i \cdot \frac{{{r_s}}}{2}{E_{so}} \cdot {e^{ - i2k{l_s}}}}
+\end{array}} \right.
+$$
+ The next step is interference in the detector arm, and the field becomes,
+$$
+{E_D} = {E_{r3}} + {E_{s3}} = {E_R} \cdot {e^{ - i2k{l_r}}} + {E_S} \cdot {e^{ - i2k{l_s}}}
+$$
+where ${E_R} =  - i \cdot \frac{{{r_r}}}{2}{E_{so}}$, and ${E_S} =  - i \cdot \frac{{{r_s}}}{2}{E_{so}}$.
+
+The irradiance approaching the detector arm is obtained,
+$$
+\begin{array}{l}
+{I_D} = \left\langle {{E_D} \cdot E_D^*} \right\rangle \\
+{I_D} = \left\langle {{E_R} \cdot E_R^*} \right\rangle  + \left\langle {{E_S} \cdot E_S^*} \right\rangle  + {E_R}E_S^*{e^{ - i2k{l_r} + i2k{l_s}}} + {E_S}E_R^*{e^{ - i2k{l_s} + i2k{l_r}}}\\
+{I_D} = {I_R} + {I_S} + {\mathop{\rm Re}\nolimits} \left\{ {\gamma {{\left( z \right)}_{11}}\sqrt {{I_R}{I_S}} \left[ {{e^{i2k\left( {{l_s} - {l_r}} \right)}} + {e^{i2k\left( {{l_r} - {l_s}} \right)}}} \right]} \right\}\\
+{I_D} = {I_R} + {I_S} + 2{\mathop{\rm Re}\nolimits} \left\{ {\gamma {{\left( z \right)}_{11}}\sqrt {{I_R}{I_S}} \cos \left( {2k\Delta l} \right)} \right\}
+\end{array}
+$$
+where ${\Delta l}={l_r}-{l_s}$, and ${\gamma {{\left( z \right)}_{11}}}$ is the degree of coherence.
+$$
+\left\{ {\begin{array}{*{20}{l}}
+{\left| {\gamma {{\left( z \right)}_{11}}} \right| = 1,{\rm{coherent - limit}};}\\
+{\left| {\gamma {{\left( z \right)}_{11}}} \right| = 0,{\rm{incoherent - limit}};}\\
+{0 < \left| {\gamma {{\left( z \right)}_{11}}} \right| < 1,{\rm{partial - coherent}}{\rm{.}}}
+\end{array}} \right.
+$$
+For TD-OCT, the reference mirror is moving with a velocity of ${v_m} = \frac{{\Delta l}}{t}$, and thus creates a Doppler or frequency shift ${f_D} = \frac{{2{v_m}}}{\lambda }$ in the signal. Therefore, we obtain the irradiance,
+$$
+{I_D} = {I_R} + {I_S} + 2{\mathop{\rm Re}\nolimits} \left\{ {\gamma {{\left( z \right)}_{11}}\sqrt {{I_R}{I_S}} \cos \left( {2\pi {f_D}t} \right)} \right\}\label{eq-intensity}
+$$
+$\ref{eq-intensity}$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ref](\label{eq-intensity})  qq
+
 ## Reference
 
-[Optical Coherence Tomography-Technology and Applications](https://www.springer.com/gp/book/9783319064185)
+[1] [Optical Coherence Tomography-Technology and Applications](https://www.springer.com/gp/book/9783319064185)
+
+[2] [Optical Coherence Tomography - Principles and Applications](https://doi.org/10.1016/B978-0-12-133570-0.X5000-8)
