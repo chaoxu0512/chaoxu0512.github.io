@@ -149,33 +149,7 @@ $${{E_{r3}} = \frac{i}{{\sqrt 2 }}{E_{r2}} \cdot {e^{ - ik{l_r}}} =  - i \cdot \
 
 $${{E_{s3}} = \frac{1}{{\sqrt 2 }}{E_{s2}} \cdot {e^{ - ik{l_s}}} =  - i \cdot \frac{{{r_s}}}{2}{E_{so}} \cdot {e^{ - i2k{l_s}}}}$$
 
- The next step is interference in the detector arm, and the field becomes,
 
-$${E_D} = {E_{r3}} + {E_{s3}} = {E_R} \cdot {e^{ - i2k{l_r}}} + {E_S} \cdot {e^{ - i2k{l_s}}}$$
-
-where ${E_R} =  - i \cdot \frac{{{r_r}}}{2}{E_{so}}$, and ${E_S} =  - i \cdot \frac{{{r_s}}}{2}{E_{so}}$.
-
-The irradiance approaching the detector arm is obtained,
-
-$${I_D} =  < {E_D} \cdot E_D^* > $$
-
-
-
-$${I_D} = {I_R} + {I_S} + {\rm{Re(}}\gamma {\left( z \right)_{11}} \cdot \sqrt {{I_R}{I_S}}  \cdot ({e^{i2k\left( {{l_s} - {l_r}} \right)}} + {e^{i2k\left( {{l_r} - {l_s}} \right)}}{\rm{))}}$$
-
-$${I_D} = {I_R} + {I_S} + 2{\rm{Re(}}\gamma {\left( z \right)_{11}} \cdot \sqrt {{I_R}{I_S}}  \cdot \cos (2k\Delta l){\rm{)}}$$
-
-where ${\Delta l}={l_r}-{l_s}$, and ${\gamma {{\left( z \right)}_{11}}}$ is the degree of coherence.
-
-$${\left| {\gamma {{\left( z \right)}_{11}}} \right| = 1,{\rm{coherent - limit}}}$$
-
-$${\left| {\gamma {{\left( z \right)}_{11}}} \right| = 0,{\rm{incoherent - limit}}}$$
-
-$${0 < \left| {\gamma {{\left( z \right)}_{11}}} \right| < 1,{\rm{partial - coherent}}}$$
-
-For TD-OCT, the reference mirror is moving with a velocity of ${v_m} = \frac{{\Delta l}}{t}$, and thus creates a Doppler or frequency shift ${f_D} = \frac{{2{v_m}}}{\lambda }$ in the signal. Therefore, we obtain the irradiance,
-
-$${I_D} = {I_R} + {I_S} + 2{\rm{Re(}}\gamma {\left( z \right)_{11}} \cdot \sqrt {{I_R}{I_S}}  \cdot \cos (2\pi {f_D}t){\rm{)}}$$
 
 ## Reference
 
