@@ -62,7 +62,7 @@ The measurement had a 15 mm axial resolution and was performed using 65 femtosec
 
 ### 1.3.3 Low-Coherence Interferometry
 
-$$\left.I_{o} \sim\left|E_{r}\right|^{2}|+| E_{s}\right|^{2}+2 \cdot E_{r} \cdot E_{s} \cos (2 \cdot k \cdot \Delta L)$$
+$${I_o} \propto {\left| {{E_r}} \right|^2} + {\left| {{E_s}} \right|^2} + 2 \cdot {E_r} \cdot {E_s}\cos (2 \cdot k \cdot \Delta L)$$
 
 $\Delta L$ is the path length difference between the signal and reference arms of the interferometer.
 
