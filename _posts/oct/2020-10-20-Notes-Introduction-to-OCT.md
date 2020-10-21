@@ -133,10 +133,9 @@ When the light changes its polarization states by a mirror or biological tissues
 </p>
 When the light first emits from  the 50/50 beam splitter, and goes into the sample  and reference arm, respectively,
 
-$$\begin{array}{l}
-{E_{r1}} = \frac{1}{{\sqrt 2 }}{E_{so}}\\
-{E_{s1}} = \frac{i}{{\sqrt 2 }}{E_{so}}
-\end{array}$$
+$${E_{r1}} = \frac{1}{{\sqrt 2 }}{E_{so}}$$
+
+$${E_{s1}} = \frac{i}{{\sqrt 2 }}{E_{so}}$$
 
 As the light propagates, it hits the sample or the mirror, and the light beam is reflected,
 
