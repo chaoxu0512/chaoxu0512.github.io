@@ -159,9 +159,7 @@ The irradiance approaching the detector arm is obtained,
 
 $${I_D} =  < {E_D} \cdot E_D^* > $$
 
-
-
-$${I_D} =  < {E_R} \cdot E_R^* >  +  < {E_S} \cdot E_S^* >  + {E_R}E_S^*\exp ( - i2k{l_r} + i2k{l_s}) + {E_S}E_R^*\exp ( - i2k{l_s} + i2k{l_r})$$
+$${I_D} =  < {E_R} \cdot E_R^* >  +  < {E_S} \cdot E_S^* >  + {E_R}E_S^* \cdot {e^{ - i2k{l_r} + i2k{l_s}}} + {E_S}E_R^* \cdot {e^{ - i2k{l_s} + i2k{l_r}}}$$
 
 
 
