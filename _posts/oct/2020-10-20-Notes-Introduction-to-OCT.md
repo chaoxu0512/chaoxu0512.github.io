@@ -157,24 +157,25 @@ where ${E_R} =  - i \cdot \frac{{{r_r}}}{2}{E_{so}}$, and ${E_S} =  - i \cdot \f
 
 The irradiance approaching the detector arm is obtained,
 
-$$\begin{array}{l}
-{I_D} = \left\langle {{E_D} \cdot E_D^*} \right\rangle \\
-{I_D} = \left\langle {{E_R} \cdot E_R^*} \right\rangle  + \left\langle {{E_S} \cdot E_S^*} \right\rangle  + {E_R}E_S^*{e^{ - i2k{l_r} + i2k{l_s}}} + {E_S}E_R^*{e^{ - i2k{l_s} + i2k{l_r}}}\\
-{I_D} = {I_R} + {I_S} + {\mathop{\rm Re}\nolimits} \left\{ {\gamma {{\left( z \right)}_{11}}\sqrt {{I_R}{I_S}} \left[ {{e^{i2k\left( {{l_s} - {l_r}} \right)}} + {e^{i2k\left( {{l_r} - {l_s}} \right)}}} \right]} \right\}\\
-{I_D} = {I_R} + {I_S} + 2{\mathop{\rm Re}\nolimits} \left\{ {\gamma {{\left( z \right)}_{11}}\sqrt {{I_R}{I_S}} \cos \left( {2k\Delta l} \right)} \right\}
-\end{array}$$
+$${{I_D} = \left\langle {{E_D} \cdot E_D^*} \right\rangle }$$
+
+$${{I_D} = \left\langle {{E_R} \cdot E_R^*} \right\rangle  + \left\langle {{E_S} \cdot E_S^*} \right\rangle  + {E_R}E_S^*{e^{ - i2k{l_r} + i2k{l_s}}} + {E_S}E_R^*{e^{ - i2k{l_s} + i2k{l_r}}}}$$
+
+$${{I_D} = {I_R} + {I_S} + {\rm{Re}}\left\{ {\gamma {{\left( z \right)}_{11}}\sqrt {{I_R}{I_S}} \left[ {{e^{i2k\left( {{l_s} - {l_r}} \right)}} + {e^{i2k\left( {{l_r} - {l_s}} \right)}}} \right]} \right\}}$$
+
+$${{I_D} = {I_R} + {I_S} + 2{\rm{Re}}\left\{ {\gamma {{\left( z \right)}_{11}}\sqrt {{I_R}{I_S}} \cos \left( {2k\Delta l} \right)} \right\}}$$
 
 where ${\Delta l}={l_r}-{l_s}$, and ${\gamma {{\left( z \right)}_{11}}}$ is the degree of coherence.
 
-$$\left\lbrace {\begin{array}{*{20}{l}}
-{\left| {\gamma {{\left( z \right)}_{11}}} \right| = 1,{\rm{coherent - limit}};}\\
-{\left| {\gamma {{\left( z \right)}_{11}}} \right| = 0,{\rm{incoherent - limit}};}\\
-{0 < \left| {\gamma {{\left( z \right)}_{11}}} \right| < 1,{\rm{partial - coherent}}{\rm{.}}}
-\end{array}} \right.$$
+$${\left| {\gamma {{\left( z \right)}_{11}}} \right| = 1,{\rm{coherent - limit}}}$$
+
+$${\left| {\gamma {{\left( z \right)}_{11}}} \right| = 0,{\rm{incoherent - limit}}}$$
+
+$${0 < \left| {\gamma {{\left( z \right)}_{11}}} \right| < 1,{\rm{partial - coherent}}}$$
 
 For TD-OCT, the reference mirror is moving with a velocity of ${v_m} = \frac{{\Delta l}}{t}$, and thus creates a Doppler or frequency shift ${f_D} = \frac{{2{v_m}}}{\lambda }$ in the signal. Therefore, we obtain the irradiance,
 
-$${I_D} = {I_R} + {I_S} + 2{\mathop{\rm Re}\nolimits} \left\{ {\gamma {{\left( z \right)}_{11}}\sqrt {{I_R}{I_S}} \cos \left( {2\pi {f_D}t} \right)} \right\}$$
+$${I_D} = {I_R} + {I_S} + 2{\rm{Re}}\left\{ {\gamma {{\left( z \right)}_{11}}\sqrt {{I_R}{I_S}} \cos \left( {2\pi {f_D}t} \right)} \right\}$$
 
 ## Reference
 
