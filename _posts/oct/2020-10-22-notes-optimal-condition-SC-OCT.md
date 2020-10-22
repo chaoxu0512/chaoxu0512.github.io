@@ -21,4 +21,4 @@ The laser noise mainly comes from two sources [1]:
 
 # Reference
 
-[1] https://www.rp-photonics.com/laser_noise.html
+[1] [https://www.rp-photonics.com/laser_noise.html](https://www.rp-photonics.com/laser_noise.html)
