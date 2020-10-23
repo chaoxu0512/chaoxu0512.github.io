@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Notes——optimal conditions for SC-based OCT 
+title:      Notes-optimal conditions for SC-based OCT 
 subtitle:   
 date:       2020-10-22
 author:     Chao Xu
