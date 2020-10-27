@@ -4,7 +4,9 @@ title:      理解MobileNetV1
 subtitle:   
 date:       2020-09-27
 author:     Chao Xu
-header-img: img/606216.jpg
+header-style: text
+hidden: true
+mathjax: true 
 catalog: true
 tags:
     - Image Segmentation
