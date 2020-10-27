@@ -5,7 +5,7 @@ subtitle:
 date:       2020-10-22
 author:     Chao Xu
 header-style: text
-page-mathjax: true 
+mathjax: true 
 catalog: true
 tags:
     - Optical Coherence Tomography
