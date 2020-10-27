@@ -4,7 +4,9 @@ title:      理解 Dynamic full-field optical coherence tomography
 subtitle:   视网膜细胞器的3D活体成像
 date:       2020-09-19
 author:     Chao Xu
-header-style: text 
+header-style: text
+hidden: true
+mathjax: false 
 catalog: true
 tags:
     - Optical Coherence Tomography
