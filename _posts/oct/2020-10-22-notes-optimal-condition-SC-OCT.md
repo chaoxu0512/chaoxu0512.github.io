@@ -4,7 +4,8 @@ title:      Notes-Optimal conditions for SC-based OCT
 subtitle:   
 date:       2020-10-22
 author:     Chao Xu
-header-style: text 
+header-style: text
+page-mathjax: true 
 catalog: true
 tags:
     - Optical Coherence Tomography
