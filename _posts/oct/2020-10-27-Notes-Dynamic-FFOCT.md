@@ -4,7 +4,9 @@ title:      Notes-Dynamic FFOCT
 subtitle:   Subcellular metabolic contrast of tissues ex vivo
 date:       2020-10-27
 author:     Chao Xu
-header-style: text 
+header-style: text
+hidden: true 
+mathjax: false
 catalog: true
 tags:
     - Optical Coherence Tomography
