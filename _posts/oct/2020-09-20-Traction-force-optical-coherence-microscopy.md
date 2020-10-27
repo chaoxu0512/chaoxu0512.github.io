@@ -4,7 +4,9 @@ title:      Traction force optical coherence microscopy
 subtitle:   Review for "Quantitative reconstruction of time-varying 3D cell forces with traction force optical coherence microscopy"
 date:       2020-09-20
 author:     Chao Xu
-header-img: img/post-bg-universe.jpg 
+header-style: text
+hidden: true 
+mathjax: true
 catalog: true
 tags:
     - Optical Coherence Tomography
