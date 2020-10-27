@@ -28,7 +28,7 @@ The line CCD has 2048 pixels and an A-scan rate of up to 70 kHz (i.e., 70k A-sca
 
 > how to measure (intensity/ sensitivity) roll off ? 
 
-The fitted blue line with a slope of 1/2 in Fig. 3A shows that with the SuperK source there was a narrow reference arm power region (i.e., between ∼100 and ∼1000 CCD counts) in the middle portion of the noise curve, where the noise followed the square root dependency on the reference arm power level, signifying the shot-noise limited operation region. 
+The fitted blue line with a slope of $\frac{{\rm{1}}}{{\rm{2}}}$ in Fig. 3A shows that with the SuperK source there was a narrow reference arm power region (i.e., between ∼100 and ∼1000 CCD counts) in the middle portion of the noise curve, where the noise followed the square root dependency on the reference arm power level, signifying the shot-noise limited operation region. 
 
 > CCD counts? related with reference arm power level P?
 >
