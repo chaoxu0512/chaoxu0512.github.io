@@ -168,9 +168,9 @@ $$
 Here $\Delta x$ denotes the diffraction limited minimum spot size, which means it is defined from the perspective of diameter. 
 
 The depth of field or confocal parameter b, which is 2$z_R$ or two times the Rayleigh range, is given,
-$$
-b = 2{z_R} = 2{{\pi {{\left( {\Delta x/2} \right)}^2}} \over \lambda } = {{\pi  \cdot \Delta {x^2}} \over {2\lambda }}
-$$
+
+![b = 2{z_R} = 2\frac{{\pi {{\left( {\Delta x/2} \right)}^2}}}{\lambda } = \frac{{\pi  \cdot \Delta {x^2}}}{{2\lambda }}](http://chart.apis.google.com/chart?cht=tx&chs=1x0&chf=bg,s,FFFFFF00&chco=000000&chl=b%20%3D%202%7Bz_R%7D%20%3D%202%5Cfrac%7B%7B%5Cpi%20%7B%7B%5Cleft%28%20%7B%5CDelta%20x%2F2%7D%20%5Cright%29%7D%5E2%7D%7D%7D%7B%5Clambda%20%7D%20%3D%20%5Cfrac%7B%7B%5Cpi%20%20%5Ccdot%20%5CDelta%20%7Bx%5E2%7D%7D%7D%7B%7B2%5Clambda%20%7D%7D)
+
 The coefficient of the formula is little different from that in the original book.
 
 ### 1.5.2 Optical Coherence Microscopy and En Face OCT
