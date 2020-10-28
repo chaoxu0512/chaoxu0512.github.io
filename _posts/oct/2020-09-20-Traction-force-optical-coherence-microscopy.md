@@ -5,7 +5,7 @@ subtitle:   Review for "Quantitative reconstruction of time-varying 3D cell forc
 date:       2020-09-20
 author:     Chao Xu
 header-style: text
-hidden: true 
+hidden: false 
 mathjax: true
 catalog: true
 tags:
