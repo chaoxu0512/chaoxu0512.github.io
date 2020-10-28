@@ -155,7 +155,7 @@ About the contrast of OCT imaging, here is a paragraph abstracted from the book 
 
 The axial resolution of OCT is determined by the measurement resolution for echo time delay of light, and the formula is given as below,
 $$
-\Delta z = \frac{{2\ln 2}}{\pi } \cdot \frac{{{\lambda ^2}}}{{\Delta \lambda }}
+\Delta z = 2\ln 2/(\pi ) \cdot ({\lambda ^2}/\Delta \lambda )
 $$
 To derive the formula of axial resolution mathematically,  I first turned to Chapter 5 of the book `Optical Coherence Tomography - Principles and Applications` [[3]](https://www.sciencedirect.com/book/9780121335700/optical-coherence-tomography). The derivation of Time-domain OCT axial resolution can be seen in the [v1](.\2020-10-23-derivation-of-tdoct-axial-resolution-v1.md). However, it turns out that the book is not as good as I thought before. I found many mistakes, for example, math forms, lack of coefficients.
 
