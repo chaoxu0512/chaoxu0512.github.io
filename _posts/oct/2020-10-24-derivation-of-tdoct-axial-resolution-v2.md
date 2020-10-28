@@ -22,8 +22,6 @@ The formula of coherence length is directly given without specific derivation (E
 
 I give an approximate derivation here, and the notation is in accordance with that in the book.
 
-$$\left\{ {\begin{array}{*{20}{l}}{\nu {\rm{ = }}\frac{c}{{{\lambda _0}}}}\\{\Delta \nu  = \frac{{c \cdot \Delta \lambda }}{{\lambda _0^2}}}\\{{l_c} = c{\tau _c} = \frac{c}{{\Delta \nu }} = \frac{{\lambda _0^2}}{{\Delta \lambda }}}\end{array}} \right. \leftrightarrow (2)$$
-
 ![\left\{ {\begin{array}{lllllllllllllll} {\nu {\rm{ = }}\frac{c}{{{\lambda _0}}}}\\ {\Delta \nu  = \frac{{c \cdot \Delta \lambda }}{{\lambda _0^2}}}\\ {{l_c} = c{\tau _c} = \frac{c}{{\Delta \nu }} = \frac{{\lambda _0^2}}{{\Delta \lambda }}} \end{array}} \right. \leftrightarrow (2)](http://chart.apis.google.com/chart?cht=tx&chs=1x0&chf=bg,s,FFFFFF00&chco=000000&chl=%5Cleft%5C%7B%20%7B%5Cbegin%7Barray%7D%7Blllllllllllllll%7D%0A%7B%5Cnu%20%7B%5Crm%7B%20%3D%20%7D%7D%5Cfrac%7Bc%7D%7B%7B%7B%5Clambda%20_0%7D%7D%7D%7D%5C%5C%0A%7B%5CDelta%20%5Cnu%20%20%3D%20%5Cfrac%7B%7Bc%20%5Ccdot%20%5CDelta%20%5Clambda%20%7D%7D%7B%7B%5Clambda%20_0%5E2%7D%7D%7D%5C%5C%0A%7B%7Bl_c%7D%20%3D%20c%7B%5Ctau%20_c%7D%20%3D%20%5Cfrac%7Bc%7D%7B%7B%5CDelta%20%5Cnu%20%7D%7D%20%3D%20%5Cfrac%7B%7B%5Clambda%20_0%5E2%7D%7D%7B%7B%5CDelta%20%5Clambda%20%7D%7D%7D%0A%5Cend%7Barray%7D%7D%20%5Cright.%20%5Cleftrightarrow%20%282%29)
 
 where $\nu $ denotes the frequency of light source, and $\Delta \nu $ denotes the FWHM bandwidth in frequency.
