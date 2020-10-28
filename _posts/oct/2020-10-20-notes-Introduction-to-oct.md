@@ -173,6 +173,30 @@ The coefficient of the formula is little different from that in the original boo
 
 ### 1.5.2 Optical Coherence Microscopy and En Face OCT
 
+**Coherence gating**: the sample and reference beams coherently interfere only when their optical path-length difference is within the coherence length of the source, which is referred to as coherence gating [[4]](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470177013).
+
+OCM images (usually en face images) are obtained at different depths by adjusting the focus depth (achieved by modulating the reference arm path delay to focus depth). The en face OCM images are  acquired with excellent transverse resolution  due to the advantage of high numerical aperture.
+
+Challenges for OCM:
+
+- to match the interferometer reference arm delay to the scanned beam path delay in the microscope sample arm interface.
+- to make early OCM technology (constant path delay beam scanning is required) compatible with existing microscope designs.
+- one axial scan for each pixel in the image is required for OCM.
+
+The development of spectral / Fourier domain and swept source / Fourier domain OCT leads to a dramatic increase in imaging speed, which enables multiple en face depths and spanning the focal depth of OCM. The techniques are called en face OCT.
+
+One area related with en face OCT is full-field OCT with high pixel density images over wide fields of view. See the description of full-field OCT from the book [[1]](https://www.springer.com/gp/book/9783319064185),
+
+> Full-field OCT performs high resolution en face imaging with coherence-gated detection using a Linnik interferometer and CCD cameras. Full-field OCT achieves cellular resolution imaging, and because a single spatial mode light is not required, it has the advantage that high axial resolution is possible using low-cost thermal or gas discharge light sources.
+
+### 1.5.3 Light Sources for Ultrahigh-Resolution OCT
+
+## 1.6 Advances in Imaging Speed
+
+Spectral/Fourier domain OCT (SD-OCT) was first proposed by Fercher et al in  1995 [[5]](https://www.sciencedirect.com/science/article/abs/pii/003040189500119S). In 2003, it was demonstrated  that SD-OCT owns a powerful sensitivity advantage over time domain detection, for measuring all the echoes of light simultaneously. this leads to a sensitivity increase of 50–100 times, enabling a corresponding increase in imaging speeds.
+
+For swept source/Fourier domain OCT (SS-OCT), a narrow-bandwidth, frequency swept light source and detectors are adopted to measure the interference output as a function of time.
+
 ## Reference
 
 [1] Drexler, Wolfgang, and James G. Fujimoto, eds. *Optical coherence tomography: technology and applications*. Springer Science & Business Media, 2008.
@@ -183,3 +207,4 @@ The coefficient of the formula is little different from that in the original boo
 
 [4] Wang, Lihong V., and Hsin-I. Wu. *Biomedical optics: principles and imaging*. John Wiley & Sons, 2012.
 
+[5] Fercher, Adolph F., et al. "Measurement of intraocular distances by backscattering spectral interferometry." *Optics communications* 117.1-2 (1995): 43-48.
