@@ -169,7 +169,7 @@ Here $\Delta x$ denotes the diffraction limited minimum spot size, which means i
 
 The depth of field or confocal parameter b, which is 2$z_R$ or two times the Rayleigh range, is given,
 $$
-b = 2{z_R} = 2\frac{{\pi {{\left( {\Delta x/2} \right)}^2}}}{\lambda } = \frac{{\pi  \cdot \Delta {x^2}}}{{2\lambda }}
+b = 2{z_R} = 2{{\pi {{\left( {\Delta x/2} \right)}^2}} \over \lambda } = {{\pi  \cdot \Delta {x^2}} \over {2\lambda }}
 $$
 The coefficient of the formula is little different from that in the original book.
 
