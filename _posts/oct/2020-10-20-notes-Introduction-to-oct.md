@@ -66,9 +66,7 @@ The measurement had a 15 mm axial resolution and was performed using 65 femtosec
 
 ### 1.3.3 Low-Coherence Interferometry
 
-$$
-{I_o} \propto {\left| {{E_r}} \right|^2} + {\left| {{E_s}} \right|^2} + 2 \cdot {E_r} \cdot {E_s}\cos (2 \cdot k \cdot \Delta L)
-$$
+$${I_o} \propto {\left| {{E_r}} \right|^2} + {\left| {{E_s}} \right|^2} + 2 \cdot {E_r} \cdot {E_s}\cos (2 \cdot k \cdot \Delta L)$$
 
 $\Delta L$ is the path length difference between the signal and reference arms of the interferometer.
 
@@ -154,24 +152,23 @@ About the contrast of OCT imaging, here is a paragraph abstracted from the book 
 ### 1.5.1 Axial Resolution and Depth of Field
 
 The axial resolution of OCT is determined by the measurement resolution for echo time delay of light, and the formula is given as below,
-$$
-\Delta z = 2\ln 2/(\pi ) \cdot ({\lambda ^2}/\Delta \lambda )
-$$
+
+$$\Delta z = 2\ln 2/(\pi ) \cdot ({\lambda ^2}/\Delta \lambda )$$
+
 To derive the formula of axial resolution mathematically,  I first turned to Chapter 5 of the book `Optical Coherence Tomography - Principles and Applications` [[3]](https://www.sciencedirect.com/book/9780121335700/optical-coherence-tomography). The derivation of Time-domain OCT axial resolution can be seen in the [v1](.\2020-10-23-derivation-of-tdoct-axial-resolution-v1.md). However, it turns out that the book is not as good as I thought before. I found many mistakes, for example, math forms, lack of coefficients.
 
 Therefore, I found another book `Biomedical Optics: Principles and Imaging` [[4]](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470177013), and it’s indeed a good one. The derivation of axial resolution for time domain OCT is accurate. I follow the instructions step by step, and some notes in the [v2](.\2020-10-24-derivation-of-tdoct-axial-resolution-v2.md).
 
 The transverse resolution is,
-$$
-\Delta x = \frac{{4\lambda }}{\pi } \cdot \frac{f}{d} \approx \frac{{2\lambda }}{{\pi  \cdot {\rm{NA}}}}
-$$
+
+$$\Delta x = \frac{{4\lambda }}{\pi } \cdot \frac{f}{d} \approx \frac{{2\lambda }}{{\pi  \cdot {\rm{NA}}}}$$
+
 Here $\Delta x$ denotes the diffraction limited minimum spot size, which means it is defined from the perspective of diameter. 
 
 The depth of field or confocal parameter b, which is 2$z_R$ or two times the Rayleigh range, is given,
 
-$$
-b = 2{z_R} = {\rm{2}}\pi {(\Delta x/2)^2}/\lambda  = \pi \Delta {x^2}/(2\lambda )
-$$
+$$b = 2{z_R} = {\rm{2}}\pi {(\Delta x/2)^2}/\lambda  = \pi \Delta {x^2}/(2\lambda )$$
+
 The coefficient of the formula is little different from that in the original book.
 
 ### 1.5.2 Optical Coherence Microscopy and En Face OCT
