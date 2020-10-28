@@ -5,7 +5,7 @@ subtitle:   Subcellular metabolic contrast of tissues ex vivo
 date:       2020-10-27
 author:     Chao Xu
 header-style: text
-hidden: true 
+hidden: false 
 mathjax: false
 catalog: true
 tags:
