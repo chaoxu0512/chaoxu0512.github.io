@@ -161,7 +161,7 @@ Therefore, I found another book `Biomedical Optics: Principles and Imaging` [[4]
 
 The transverse resolution is,
 
-$$\Delta x = \frac{{4\lambda }}{\pi } \cdot \frac{f}{d} \approx \frac{{2\lambda }}{{\pi  \cdot {\rm{NA}}}}$$
+$$\Delta x = (4\lambda /\pi ) \cdot (f/d) \approx 2\lambda /(\pi  \cdot {\rm{NA}})$$
 
 Here $\Delta x$ denotes the diffraction limited minimum spot size, which means it is defined from the perspective of diameter. 
 
