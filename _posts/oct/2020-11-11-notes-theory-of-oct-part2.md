@@ -94,12 +94,8 @@ Dynamic range: the range of optical reflectivities observable within within a si
 
 ### 2.9.1 SNR Analysis for Time-Domain OCT
 
-Shot-noise is the fundamental limiting noise for optical detection. In OCT detection, design approaches for obtaining shot-noise-limited operation are usually applied. 
+Shot-noise is the fundamental limiting noise for optical detection. In OCT detection, design approaches for obtaining shot-noise-limited operation are usually applied.
 
-The expression for SNR of a TDOCT system is given by,
-$$
-SN{R_{TDOCT}} = {{\left\langle {{I_D}} \right\rangle _{TDOCT}^2} \over {\sigma _{TDOCT}^2}} = {{{\rho ^2}S_{TDOCT}^2{R_R}{R_S}/2} \over {\rho e{S_{TDOCT}}{R_R}{B_{TDOCT}}}} = {{\rho {S_{TDOCT}}{R_S}} \over {2e{B_{TDOCT}}}}
-$$
 The SNR is proportional to the detector responsivity $\rho $ and to the power returning from the sample, but is independent of the reference arm power level. 
 
 ### 2.9.2 SNR Analysis for Fourier-Domain OCT
