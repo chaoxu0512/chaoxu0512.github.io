@@ -27,7 +27,8 @@ For the autocorrelation terms, the distance between sample reflectors is much sm
 <p align="center">
 <img src="https://i.loli.net/2020/11/11/cGRFnqLs4mYTO7v.png" width=400pix>
 </p>
-<p style="text-align:center;">Fig.1. Illustration of the example discrete-reflector sample field reflectivity function and the A-scan resulting from Fourier-domain low-coherence interferometry (From the original book).
+<p style="text-align:center;">Fig.1. Illustration of the example discrete-reflector sample field reflectivity function and the A-scan resulting from Fourier-domain low-coherence interferometry (From the original book).</p>
+
 ## 2.6 Time-Domain Low-Coherence Interferometry
 
 In traditional or time-domain OCT, the wave number-dependent detector current is captured on a single receiver, while the reference delay is scanned to reconstruct an approximation of the internal sample reflectivity profile. The result is obtained by the integration over all  $k$.
@@ -39,7 +40,8 @@ Also, the sample reflectivity profile is convolved by a cosinusoidal carrier wav
  <p align="center">
 <img src="https://i.loli.net/2020/11/11/wNtbDl5rMSmZIPA.png" width=400pix>
 </p>
-<p style="text-align:center;">Fig.2. Illustration of the example discrete-reflector sample field reflectivity function and the A-scan resulting from time-domain low-coherence interferometry (From the original book).
+<p style="text-align:center;">Fig.2. Illustration of the example discrete-reflector sample field reflectivity function and the A-scan resulting from time-domain low-coherence interferometry (From the original book).</p>
+
 ## 2.7 Effects of Index of Refraction and Dispersion
 
 For the dispersion constant $\beta (\omega )$, the zero-order term is nondispersive, and the first-order and second order can be expressed by phase velocity and group velocity, respectively. 
@@ -57,8 +59,8 @@ The exponential falloff of sensitivity with depth can be understood as the decre
  <p align="center">
 <img src="https://i.loli.net/2020/11/12/4N26PvyBQfmDxui.png" width=400pix>
 </p>
+<p style="text-align:center;">Fig.3. FDOCT interferometer with addition of variable round-trip phase delay Φ in the reference arm (From the original book).</p>
 
-<p style="text-align:center;">Fig.3. FDOCT interferometer with addition of variable round-trip phase delay Φ in the reference arm (From the original book).
 
 The phase modulator can be based on electro-optic, acousto-optic, and photoelastic modulators. 
 
