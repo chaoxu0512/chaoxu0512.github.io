@@ -28,8 +28,6 @@ For the autocorrelation terms, the distance between sample reflectors is much sm
 <img src="https://i.loli.net/2020/11/11/cGRFnqLs4mYTO7v.png" width=400pix>
 </p>
 <p style="text-align:center;">Fig.1. Illustration of the example discrete-reflector sample field reflectivity function and the A-scan resulting from Fourier-domain low-coherence interferometry (From the original book).
-
-
 ## 2.6 Time-Domain Low-Coherence Interferometry
 
 In traditional or time-domain OCT, the wave number-dependent detector current is captured on a single receiver, while the reference delay is scanned to reconstruct an approximation of the internal sample reflectivity profile. The result is obtained by the integration over all  $k$.
@@ -42,16 +40,11 @@ Also, the sample reflectivity profile is convolved by a cosinusoidal carrier wav
 <img src="https://i.loli.net/2020/11/11/wNtbDl5rMSmZIPA.png" width=400pix>
 </p>
 <p style="text-align:center;">Fig.2. Illustration of the example discrete-reflector sample field reflectivity function and the A-scan resulting from time-domain low-coherence interferometry (From the original book).
-
-
-
 ## 2.7 Effects of Index of Refraction and Dispersion
 
 For the dispersion constant $\beta (\omega )$, the zero-order term is nondispersive, and the first-order and second order can be expressed by phase velocity and group velocity, respectively. 
 
 The correction for the first-order dispersion of coherence length, the A-scan of FD-OCT and TD-OCT detector current is given in terms of phase and group indices of refraction of the sample. ==What about the second-order and higher-order dispersion?==
-
-
 
 ## 2.8 Practical Aspects of FDOCT Signal Processing
 
