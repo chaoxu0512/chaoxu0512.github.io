@@ -94,9 +94,9 @@ Basically the same as that in 011 and 012.
 
 <p align="center">
 <img src="https://i.loli.net/2020/11/10/daS6CrxVQc8XKOo.png" width=200pix>
-</p><p style="text-align:center;">Fig.2. Schematic illustration of the high speed full-field OCT set-up (From the original paper).</p>
-
-
+</p>
+<p style="text-align:center;">Fig.2. Schematic illustration of the high speed full-field OCT set-up (From the original paper).
+</p>
 
 
 - Transverse movements of the sample place limitations on the length of time that the eye remains in a sufficiently stable position to allow image acquisition.
@@ -133,10 +133,10 @@ Basically the same as that in 011 and 012.
 - Provide linear retardance measurements in real time
 
 <p align="center">
-<img src="https://i.loli.net/2020/11/13/9ipRsA6xQEDt8ko.png" width=200pix>
-</p><p style="text-align:center;">Fig.3. Experimental arrangement of the polarization-sensitive full-field OCT set-up (From the original paper).</p>
-
-
+<img src="https://i.loli.net/2020/11/13/9ipRsA6xQEDt8ko.png" width=300pix>
+</p>
+<p style="text-align:center;">Fig.3. Experimental arrangement of the polarization-sensitive full-field OCT set-up (From the original paper).
+</p>
 
 #### 018 [Spectroscopic ultrahigh-resolution full-field optical coherence microscopy](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-16-21-17082) (2008)
 
