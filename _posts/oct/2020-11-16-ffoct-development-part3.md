@@ -32,6 +32,7 @@ A Xenon arc lamp as the light source, with very low temporal (ensure a good axia
 
 <p style="text-align:center;">Fig.1. Simplified principle of our Full-Field OCT system with a common-path imaging interferometer (From the original paper).
 
+
 A 3D image can be reconstructed by performing a one-dimensional depth scan using the processing interferometer.
 
 The effective imaging range is typically 200um, which is limited by the depth of focus of the probe optics.   The transverse resolution is 3-4um, and the axial resolution is 1-2um.
@@ -81,6 +82,7 @@ Fluorescent staining of nuclei was obtained using specific fluorescent dyes such
 </p>
 
 <p style="text-align:center;">Fig.2. Instrumental setup – combined FFOCT / SIM for fluorescence (From the original paper).
+
 
 Using the Xenon lamp, integration time was set to 5 ms for the acquisition of FFOCT images, and 35 to 70 ms for the acquisition of fluorescence images for SIM. 
 
