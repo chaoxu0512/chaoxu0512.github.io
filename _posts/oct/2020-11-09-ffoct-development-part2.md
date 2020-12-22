@@ -68,7 +68,8 @@ tags:
 <p align="center">
 <img src="https://i.loli.net/2020/11/09/KSIOocvCwq2a3Wf.png" width=200pix>
 </p>
-<p style="text-align:center;">Fig.1. Schematic representation of the ultrashort acquisition time en face OCT set-up (From the original paper).
+<p style="text-align:center;">Fig.1. Schematic representation of the ultrashort acquisition time en face OCT set-up (From the original paper).</p>
+
 
 #### 012 [Stroboscopic ultrahigh-resolution full-field optical coherence tomography](https://www.osapublishing.org/abstract.cfm?URI=ol-30-11-1351) (2005)
 
@@ -93,10 +94,9 @@ Basically the same as that in 011 and 012.
 - In vivo imaging in the anterior segment of the rat eye.
 
 <p align="center">
-<img src="https://i.loli.net/2020/11/10/daS6CrxVQc8XKOo.png" width=200pix>
+<img src="https://i.loli.net/2020/11/10/daS6CrxVQc8XKOo.png" width=300pix>
 </p>
-<p style="text-align:center;">Fig.2. Schematic illustration of the high speed full-field OCT set-up (From the original paper).
-</p>
+<p style="text-align:center;">Fig.2. Schematic illustration of the high speed full-field OCT set-up (From the original paper).</p>
 
 
 - Transverse movements of the sample place limitations on the length of time that the eye remains in a sufficiently stable position to allow image acquisition.
@@ -135,8 +135,7 @@ Basically the same as that in 011 and 012.
 <p align="center">
 <img src="https://i.loli.net/2020/11/13/9ipRsA6xQEDt8ko.png" width=300pix>
 </p>
-<p style="text-align:center;">Fig.3. Experimental arrangement of the polarization-sensitive full-field OCT set-up (From the original paper).
-</p>
+<p style="text-align:center;">Fig.3. Experimental arrangement of the polarization-sensitive full-field OCT set-up (From the original paper).</p>
 
 #### 018 [Spectroscopic ultrahigh-resolution full-field optical coherence microscopy](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-16-21-17082) (2008)
 
