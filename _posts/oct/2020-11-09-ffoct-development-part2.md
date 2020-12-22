@@ -57,7 +57,7 @@ tags:
 - Axial resolution: 1um; transverse resolution: ~1um; NA = 0.8; refractive index is 1.33.
 - Acquisition time: 10us per frame. 
 - In vivo image of mouse embryo; ex vivo image of rat retina.
-- A detection sensitivity of ~ 70 dB is achieved through 3x3 ==pixel binning==.
+- A detection sensitivity of ~ 70 dB is achieved through 3x3 **pixel binning.**
 
 > Pixels are binned to increase the effective full-well capacity of the CCD cameras. **Pixel binning** is the process of combining the electric charge from adjacent CMOS or CCD sensor pixels into one super-pixel, to reduce noise by increasing the signal-to-noise ratio in digital cameras
 >
@@ -134,8 +134,8 @@ Basically the same as that in 011 and 012.
 <p align="center">
 <img src="https://i.loli.net/2020/11/13/9ipRsA6xQEDt8ko.png" width=200pix>
 </p>
+<p style="text-align:center;">Fig.3. Experimental arrangement of the polarization-sensitive full-field OCT set-up (From the original paper).</p>
 
-<p style="text-align:center;">Fig.3. Experimental arrangement of the polarization-sensitive full-field OCT set-up (From the original paper).
 
 
 
