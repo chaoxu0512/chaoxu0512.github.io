@@ -12,7 +12,7 @@ tags:
     - Optical Coherence Tomography
 ---
 
-#### 020 [Flexible and rigid endoscopy for high-resolution in-depth imaging with Full-Field OCT](https://www.osapublishing.org/abstract.cfm?URI=BIOMED-2012-BTu4B.4) (2012)
+## 020 [Flexible and rigid endoscopy for high-resolution in-depth imaging with Full-Field OCT](https://www.osapublishing.org/abstract.cfm?URI=BIOMED-2012-BTu4B.4) (2012)
 
 The system, working in a common path,  uses two coupled interferometers, a processing interferometer external to the probe and a distal interferometer at the end of the probe in contact with the sample. 
 
@@ -47,7 +47,7 @@ Rigid method: using the Graded-Reflective-Index lens based probe.
 
 The system is not suitable for hand-held use; the rigid probe is inaccessible to some areas, such as aero-digestive and gastrointestinal tracts.
 
-#### 021 [In vivo and in vitro diagnostics using Full Field Optical Coherence Tomography](https://www.osapublishing.org/abstract.cfm?URI=BIOMED-2012-BTu3A.95) (2012)
+## 021 [In vivo and in vitro diagnostics using Full Field Optical Coherence Tomography](https://www.osapublishing.org/abstract.cfm?URI=BIOMED-2012-BTu3A.95) (2012)
 
 Large areas up to several cm² can be recorded by stitching individual images of typically 1 mm². A 1 cm² image is obtained in less than 4 minutes.
 
@@ -61,13 +61,13 @@ Advantages: do not consume the tissue and do not induce alterations.
 
 Challenges: a number of paraffin-embedded blocks sampled on surgical specimen for morphologic analysis are needed; ancillary techniques by a prior examination of the tissue are not automated and require expertise.
 
-#### 022 [Tissue elasticity imaging using full-field optical coherent tomography](https://www.osapublishing.org/abstract.cfm?uri=BIOMED-2012-BTu3A.75) (2012)
+## 022 [Tissue elasticity imaging using full-field optical coherent tomography](https://www.osapublishing.org/abstract.cfm?uri=BIOMED-2012-BTu3A.75) (2012)
 
 A FFOCT setup includes a static elastography system for multi-parameter images that could complement histopathology diagnostics.  This setup creates various levels of compression.
 
 The static elastography allowed us to produce a map of the elastic properties, and this map highlights changes in the mechanical properties of the tissue.
 
-#### 023 [Multimodal full-field optical coherence tomography on biological tissue: toward all optical digital pathology](https://doi.org/10.1117/12.908459) (2012)
+## 023 [Multimodal full-field optical coherence tomography on biological tissue: toward all optical digital pathology](https://doi.org/10.1117/12.908459) (2012)
 
 Two imaging modals are combined for obtaining a backscattered endogenous OCT image (FFOCT) and a fluorescence exogenous image (SIM) in parallel.
 
@@ -80,9 +80,7 @@ Fluorescent staining of nuclei was obtained using specific fluorescent dyes such
  <p align="center">
 <img src="https://i.loli.net/2020/11/16/hQdPDrRMtcCp5sH.png" width=400pix>
 </p>
-
-<p style="text-align:center;">Fig.2. Instrumental setup – combined FFOCT / SIM for fluorescence (From the original paper).
-
+<p style="text-align:center;">Fig.2. Instrumental setup – combined FFOCT / SIM for fluorescence (From the original paper).</p>
 
 Using the Xenon lamp, integration time was set to 5 ms for the acquisition of FFOCT images, and 35 to 70 ms for the acquisition of fluorescence images for SIM. 
 
