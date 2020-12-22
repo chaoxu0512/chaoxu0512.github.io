@@ -29,9 +29,7 @@ A Xenon arc lamp as the light source, with very low temporal (ensure a good axia
  <p align="center">
 <img src="https://i.loli.net/2020/11/16/twlJrqU19b68mus.png" width=400pix>
 </p>
-
-<p style="text-align:center;">Fig.1. Simplified principle of our Full-Field OCT system with a common-path imaging interferometer (From the original paper).
-
+<p style="text-align:center;">Fig.1. Simplified principle of our Full-Field OCT system with a common-path imaging interferometer (From the original paper).</p>
 
 A 3D image can be reconstructed by performing a one-dimensional depth scan using the processing interferometer.
 
@@ -88,10 +86,10 @@ In order to obtain a good signal to noise ratio, several images were averages fo
 
 As both types of images can be acquired simultaneously using spectral separation, the average acquisition time for a multimodal image is 1s.
 
-==Result:== the obtained images of skin samples show a significant enhancement of the contrast of nuclei due to fluorescence images, merged with architectural information from FFOCT.
+**Result:** the obtained images of skin samples show a significant enhancement of the contrast of nuclei due to fluorescence images, merged with architectural information from FFOCT.
 
 > The visualization of nuclei alone is not useful for the pathologists if not precisely located in the architecture of the tissue.
 
-==To be improved:== the fluorescence light is reduced by the beam splitter (how to optimize fluorescence collection). 
+**To be improved:** the fluorescence light is reduced by the beam splitter (how to optimize fluorescence collection). 
 
 > A separate injection path can be positioned after the beam splitter (before the objective of the sample arm).
