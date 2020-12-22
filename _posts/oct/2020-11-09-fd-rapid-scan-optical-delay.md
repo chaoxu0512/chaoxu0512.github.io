@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Note: Fourier-domain rapid scanning optical delay
+title:      Notes for Fourier-domain rapid scanning optical delay
 subtitle:   
 date:       2020-11-09
 author:     Chao Xu

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Weekly review for 11.01-11.06
+title:      Weekly review for 1101-1106
 subtitle:   
 date:       2020-11-06
 author:     Chao Xu
