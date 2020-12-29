@@ -13,7 +13,7 @@ tags:
 
 ---
 
-### 1. Group Hao F. Zhang
+## 1. Group Hao F. Zhang
 
 Paper: [Longitudinal deep-brain imaging in mouse using visible-light optical coherence tomography through chronic microprism cranial window](https://doi.org/10.1364/BOE.10.005235)
 
@@ -35,7 +35,7 @@ Specific components:
 | Scan lens                 | [LSM03-VIS, Thorlabs](https://www.thorlabs.com/thorproduct.cfm?partnumber=LSM03-VIS) | f =39mm                             |
 | Spectrometer              |                                                              | spectral range from 510nm to 614 nm |
 
-### 2. Group Yali Jia
+## 2. Group Yali Jia
 
 Paper: [Angiographic and structural imaging using high axial resolution fiber-based visible-light OCT](https://doi.org/10.1364/BOE.8.004595)
 
@@ -65,7 +65,7 @@ Specific components:
 | Line scan camera                           | spl2048-140km, Basler                                        |                                                    |
 | Data acquisition card                      | USB-6353, National Instruments                               |                                                    |
 
-### 3. Group Vivek J. Srinivasan
+## 3. Group Vivek J. Srinivasan
 
 Paper: [Structural and functional human retinal imaging with a fiber-based visible light OCT ophthalmoscope](https://doi.org/10.1364/boe.8.000323)
 
@@ -97,7 +97,7 @@ Specific components:
 
 In a recent [paper](https://doi.org/10.1364/boe.10.002918), a new method was proposed that utilizes a grating light valve spatial light modulator ([GLV-SLM, F1088, Silicon Light Machines, LLC](http://www.siliconlight.com/en/products/module.html)) to rapidly and precisely shape the supercontinuum source.
 
-### 4. Group Ji Yi
+## 4. Group Ji Yi
 
 Paper: [Visible light optical coherence tomography angiography (vis-OCTA) facilitates local microvascular oximetry in the human retina](https://doi.org/10.1364/BOE.395843)
 
@@ -120,7 +120,7 @@ Specific components:
 | line scan camera                 | E2 V Octoplus, Teledyne, France                              |                          |
 |                                  |                                                              |                          |
 
-### 5. Group Shuliang Jiao
+## 5. Group Shuliang Jiao
 
 Paper: [Visible light OCT-based quantitative imaging of lipofuscin in the retinal pigment epithelium with standard reference targets](https://doi.org/10.1364/boe.9.003768)
 
