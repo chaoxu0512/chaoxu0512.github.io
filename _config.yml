@@ -78,7 +78,7 @@ ga_domain: cx0512.com
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Welcome to visit, I'm Chao Xu!"
+sidebar-about-description: "Welcome to visit, I'm Chao Xu! I’m a PhD student in the Advanced Biophotonics Imaging Lab, CUHK. My research interests include high-resolution OCT technologies and preclinical/clinical studies with OCT."
 sidebar-avatar: /img/avatar_me.jpg       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
