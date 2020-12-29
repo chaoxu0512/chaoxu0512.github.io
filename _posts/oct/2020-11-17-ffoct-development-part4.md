@@ -12,7 +12,7 @@ tags:
     - Optical Coherence Tomography
 ---
 
-#### 024 [Full-Field Optical Coherence Microscopy as a tool for intraoperative surgery and tissue selection](https://doi.org/10.1364/NTM.2013.NW5B.1) (2013)
+## 024 [Full-Field Optical Coherence Microscopy as a tool for intraoperative surgery and tissue selection](https://doi.org/10.1364/NTM.2013.NW5B.1) (2013)
 
 The main difference with standard OCT is that FFOCT records 2D “en face images” (==transverse slices, thickness of about 1 micron==) on megapixel cameras without any transverse scanning. 
 
@@ -20,7 +20,7 @@ The main difference with standard OCT is that FFOCT records 2D “en face images
 
 This configuration allows sharp focusing in the micrometer range (from 0.5 to 1.5 micron depending on the numerical aperture of the microscope).
 
-#### 025 [Imaging of non-tumorous and tumorous human brain tissues with full-field optical coherence tomography](https://doi.org/10.1016/j.nicl.2013.04.005) (2013)
+## 025 [Imaging of non-tumorous and tumorous human brain tissues with full-field optical coherence tomography](https://doi.org/10.1016/j.nicl.2013.04.005) (2013)
 
 For the en face slices, the 3D resolution is about 1um, and the penetration depth is around 200um. A 1 cm^2^ specimen is scanned at a single depth and processed in about 5 min. 
 
