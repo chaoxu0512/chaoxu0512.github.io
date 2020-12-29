@@ -12,7 +12,7 @@ tags:
     - Optical Coherence Tomography
 ---
 
-#### 001 [Full-field optical coherence microscopy](https://www.osapublishing.org/abstract.cfm?URI=ol-23-4-244) (1998)
+## 001 [Full-field optical coherence microscopy](https://www.osapublishing.org/abstract.cfm?URI=ol-23-4-244) (1998)
 
 - Cross-sectional images are not acquired.
 - 840nm LED.
@@ -22,7 +22,7 @@ tags:
 - Axial resolution: 8um; lateral resolution: 2um.  
 - Imaging speed and sensitivity are still limited by the camera.
 
-#### 002 [High resolution real-time full-field interference microscopy](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=977024) (1999)
+## 002 [High resolution real-time full-field interference microscopy](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=977024) (1999)
 
 - Michelson-type interferometer is adopted in FFOCT. 
 - Two identical high NA microscope objective lenses are placed before the sample and reference mirror, respectively (which is actually a Linnik configuration).
@@ -33,7 +33,7 @@ tags:
 - Imaging speed: 50 images/s.  
 - Shorter wavelength and higher NA helps improve axial and lateral resolution.
 
-#### 003 [High-resolution full-field optical coherence tomography with a Linnik microscope](https://www.osapublishing.org/ao/abstract.cfm?uri=ao-41-4-805) (2002)
+## 003 [High-resolution full-field optical coherence tomography with a Linnik microscope](https://www.osapublishing.org/ao/abstract.cfm?uri=ao-41-4-805) (2002)
 
 - Linnik interference setup is adopted with high NA (0.85) objectives. 
 - Advantages of Linnik configuration: optical path lengths and focusing in both arms can be adjusted independently; improve the spatial resolution; insertion of wave plates into the interferometer arms and use of a polarizing beam splitter are possible only in the Linnik geometry.
@@ -46,12 +46,12 @@ tags:
 - Suitable when sample is immobile when acquiring the images.
 - Sensitivity should be improved (reduction of scattering) using a source with a shorter coherence length (white-light source).
 
-#### 004 [High resolution thermal light OCT for biological imagery](https://www.osapublishing.org/abstract.cfm?URI=BIO-2002-SuG5) (2002)
+## 004 [High resolution thermal light OCT for biological imagery](https://www.osapublishing.org/abstract.cfm?URI=BIO-2002-SuG5) (2002)
 
 - A tungsten halogen light source.
 - Axial resolution: 1um; transverse resolution: 1um.
 
-#### 005 [Thermal-light full-field optical coherence tomography](https://www.osapublishing.org/abstract.cfm?URI=ol-27-7-530) (2002)
+## 005 [Thermal-light full-field optical coherence tomography](https://www.osapublishing.org/abstract.cfm?URI=ol-27-7-530) (2002)
 
 - Thermal white-light source; 100-W tungsten halogen lamp in a Köhler illumination system.
 - Parallel detection scheme: CCD camera works at a maximum rate of 200 frames/s, and a piezoelectric transducer supporting the reference mirror creates a sinusoidal phase modulationat the frequency f =50 Hz (exactly a quarter of the image-acquisition rate).
@@ -61,14 +61,14 @@ tags:
 - Sensitivity is relatively low due to the low brightness of the illumination scheme and the low dynamic range of  CCD sensor. Imaging depth is limited within a few hundred microns.
 - Strengths: cheaper light source; high resolution inside biological tissues;  avoids image speckles (stable intensity and spatial incoherence)
 
-#### 006 [Full-field birefringence imaging by thermal-light polarization-sensitive optical coherence tomography. I. Theory](https://www.osapublishing.org/abstract.cfm?URI=ao-42-19-3800) (2003)
+## 006 [Full-field birefringence imaging by thermal-light polarization-sensitive optical coherence tomography. I. Theory](https://www.osapublishing.org/abstract.cfm?URI=ao-42-19-3800) (2003)
 
 - The thermal light is adopted as the source. Again, the shortcomings of the light source are mentioned, but the  advantages are also listed (the same as above).
 - Resolution in three dimensions: a few micrometers
 - Use a Linnik interference microscope and  achromatic quarter-wave plates
 - Why polarization-sensitive OCT?  The point defects cause scattering in the optical systems, and thus make them lose efficiency. Birefringence imaging is  a highly efficient way of detecting the change in the polarization of the incident light caused by the scattering defects. A combination of polarization measurement and OCT has been successfully used to image birefringent structures in biological tissues.
 
-#### 007 [Full-field birefringence imaging by thermal-light polarization-sensitive optical coherence tomography II Instrument and results](https://www.osapublishing.org/ao/abstract.cfm?uri=ao-42-19-3811) (2003)
+## 007 [Full-field birefringence imaging by thermal-light polarization-sensitive optical coherence tomography II Instrument and results](https://www.osapublishing.org/ao/abstract.cfm?uri=ao-42-19-3811) (2003)
 
 - Use a thermal light source
 - Axial resolution of 1.5 um, and transverse resolution of 1 um.  
@@ -76,7 +76,7 @@ tags:
 - The key problem to solve in this paper is to find  a fairly achromatic phase-shift component, which is a critical part of the polarization-sensitive OCT configuration.  Conventional phase-shift components, like Fresnel rhombs and phase-shifting plates, prove to be unsuitable in this situation. The authors chose to use achromatic quarter-wave plates, which are easy for the implementation but also detrimental to the accuracy and sensitivity. 
 - The main goal of this paper was to localize the scattering defects more accurately in multilayer optical coatings and therefore to determine the sources of contamination. 
 
-#### 008 [Ultrahigh-resolution OCT using white-light interference microscopy](http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.477631) (2003)
+## 008 [Ultrahigh-resolution OCT using white-light interference microscopy](http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.477631) (2003)
 
 - Use a white light source by a tungsten halogen lamp, and the bandwidth is 300 nm with its central wavelength of 800 nm. 
 - Linnik interferometer setup is adopted, and *en face* images are recorded by a silicon CCD camera.
@@ -97,5 +97,5 @@ $$
 
 where $R_{ref}$is the reference mirror reflectivity. $R_{inc}$ denotes the amount of the incoherent light, which comes from the setup and the backscattering by biological structures. To reduce the incoherent light, anti-reflection-coated optical components and water-immersion objectives are utilized. In this paper, the full well capacity ${{\xi _{sat}}}$ of CCD pixels equals 100,000. To compensate for this low ${{\xi _{sat}}}$, a large number of images are accumulated. Typically, N = 200 is chosen to obtain an averaged tomographic image within an acquisition time of 4 seconds. Longer time would be incompatible with the acquisition of large stacks of tomographic images. 
 
-#### 009 [Full-field optical coherence microscopy](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1317047) (2004)
+## 009 [Full-field optical coherence microscopy](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1317047) (2004)
 
