@@ -12,7 +12,7 @@ tags:
     - Optical Coherence Tomography
 ---
 
-#### 030 [Fingerprint imaging from the inside of a finger with full-field optical coherence tomography](https://doi.org/10.1364/boe.6.004465) (2015)
+## 030 [Fingerprint imaging from the inside of a finger with full-field optical coherence tomography](https://doi.org/10.1364/boe.6.004465) (2015)
 
 An oblique FF-OCT method (o-FF-OCT) is proposed for real-time live fingerprint imaging applications. This o-FF-OCT enables imaging all the layers in one image from which the distances to the surface of each layer can be predetermined. Basically, it is achieved by tilting the reflector in the reference arm, and thus shifts the reference beam position. Knowing the tilt and the image depth at which the oblique image was acquired, it can be calculated where the most intense signal was located in the internal fingerprint layer.
 
@@ -20,11 +20,11 @@ This technique might be a convenient way to quickly determine the depth of each 
 
 It is important to be able to scan fingerprints fast enough so that finger movement during the acquisition would not compromise the quality of fingerprint image. In the experiment, the images can be obtained within a second (averaged on ten en face images), which is adequate for live fingerprint  imaging applications. With faster InGaAs camera, the  acquisition time can be further reduced.
 
-#### 031 [Transmission glass-like aberrations correction for full-field OCT Imaging](https://doi.org/10.1364/AOMS.2015.AOTh3D.4) (2015)
+## 031 [Transmission glass-like aberrations correction for full-field OCT Imaging](https://doi.org/10.1364/AOMS.2015.AOTh3D.4) (2015)
 
 In this article, a compact transmissive liquid crystal spatial light modulator (LCSLM) is coupled to a full-field OCT imaging system.  It is verified that the LCSLM can be used to induce and correct aberrations. The metric is based on the FFOCT image quality.
 
-#### 032 [Dark-field full-field optical coherence tomography](https://doi.org/10.1364/OL.40.003272) (2015)
+## 032 [Dark-field full-field optical coherence tomography](https://doi.org/10.1364/OL.40.003272) (2015)
 
 Dark-field full-field OCT (d-FFO-OCT) was realized by putting a block in the central part of the pupil-conjugated plane and replacing the reference mirror with a blazed reflective diffraction grating.
 
@@ -37,17 +37,17 @@ d-FF-OCT enabled recording high contrast OCT images at a coverslip-tissue interf
 
 d-FF-OCT enables acquisition of optically sectioned dark-field images, which helps to get rid of the unwanted reflected and scattered light by either physically blocking it or gating it through interferometric detection.
 
-#### 033 [Assessment of Sentinel Node Biopsies With Full-Field Optical Coherence Tomography](https://doi.org/10.1177/1533034615575817) (2016)
+## 033 [Assessment of Sentinel Node Biopsies With Full-Field Optical Coherence Tomography](https://doi.org/10.1177/1533034615575817) (2016)
 
 The short coherence length leads to an axial resolution of 1um. The immersion objectives with the numerical aperture of 0.3 leads to a lateral resolution of 1.6um. The penetration depth in the lymph nodes is of the order of 200-300um. A 1cm x 1cm stitched field is captured within 10 minutes, and a 3D stack of 200um x 1mm x 1mm is also captured less than 5 minutes.
 
 The FFOCT is a comparable technique to the Frozen Section analysis. FFOCT holds the advantage of simplicity, since no expertise is necessary for the image acquisition.   For the standard FS preparation, technical expertise is required to obtain good-quality slides. In addition, FFOCT does not consume tissue. It showed very good sensitivity and specificity values (between 83% and 94%) on the blind benign/malignant diagnosis by a pathologist and a nonpathologist. It is expected that analysis of ex vivo sentinel node biopsies with FFOCT may have potential to replace FS analysis
 
-#### 034 [Full-field spatially incoherent illumination interferometry: a spatial resolution almost insensitive to aberrations](https://doi.org/10.1364/ol.41.003920) (2016)
+## 034 [Full-field spatially incoherent illumination interferometry: a spatial resolution almost insensitive to aberrations](https://doi.org/10.1364/ol.41.003920) (2016)
 
 It was found that: with spatially incoherent illumination, the resolution of FFOCT  is almost insensitive to aberrations. The aberrations mostly induce a reduction of the signal that leads to a loss of the signal-to-noise ratio without broadening the system point spread function.
 
-#### 035 [Adaptive optics full-field optical coherence tomography](https://doi.org/10.1117/1.jbo.21.12.121505) (2016)
+## 035 [Adaptive optics full-field optical coherence tomography](https://doi.org/10.1117/1.jbo.21.12.121505) (2016)
 
 In this paper, a transmissive liquid crystal spatial light modulator (LCSLM) was coupled to a FFOCT setup to induce or correct aberrations. 
 
