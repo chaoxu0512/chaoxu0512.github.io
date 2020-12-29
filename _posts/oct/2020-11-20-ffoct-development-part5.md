@@ -12,7 +12,7 @@ tags:
     - Optical Coherence Tomography
 ---
 
-#### 026 [Optical biopsy on head and neck tissue using full-field OCT: a pilot study](https://doi.org/10.1117/12.2036959) (2014)
+## 026 [Optical biopsy on head and neck tissue using full-field OCT: a pilot study](https://doi.org/10.1117/12.2036959) (2014)
 
 - An ex vivo study for head and neck cancers using FFOCT.
 - How to evaluate the OCT images and histological images?
@@ -29,13 +29,13 @@ Part of the discussion is abstracted as below,
 >
 > An important advantage of the FFOCT technology is the ability to perform multiscale imaging, which  helps good diagnosis and fast cancer assessment for the pathologist. The high-resolution of FFOCT images allows for the observation of information at cellular and even subcellular level while the large field of view provide useful information in the sample histological morphology.
 
-#### 027 [Large field, high resolution full-field optical coherence tomography: a pre-clinical study of human breast tissue and cancer assessment](https://doi.org/10.7785/tcrtexpress.2013.600254) (2014)
+## 027 [Large field, high resolution full-field optical coherence tomography: a pre-clinical study of human breast tissue and cancer assessment](https://doi.org/10.7785/tcrtexpress.2013.600254) (2014)
 
 This paper is pre-clinical try of human breast tissue and cancer assessment.
 
 > FF-OCT is the first ultra-high resolution optical imaging technique that combines the possibility of obtaining breast tissue images over an adequately large area, while producing images of sufficiently high resolution, thereby allowing pathologists to mimic routine histopathology diagnostic workflow by zooming in and out on the images. 
 
-#### 028 [En-face full-field optical coherence tomography for fast and efficient fingerprints acquisition](https://doi.org/10.1117/12.2051134) (2014)
+## 028 [En-face full-field optical coherence tomography for fast and efficient fingerprints acquisition](https://doi.org/10.1117/12.2051134) (2014)
 
 High quality optical sectioning of fingers skin is obtained using FFOCT. Imaging depth is large enough to reach the epidermis-dermis interface whose topography has been considered to replace the usual fingerprints.
 
@@ -49,6 +49,6 @@ If larger penetration depth is desired for fingerprints imaging, a light source 
 
 Burned or wounded fingers are not considered in this paper.
 
-#### 029 [Low coherence interferometry as a cancer diagnosis tool](https://doi.org/10.1364/BIOMED.2014.BT4B.1) (2014)
+## 029 [Low coherence interferometry as a cancer diagnosis tool](https://doi.org/10.1364/BIOMED.2014.BT4B.1) (2014)
 
 A general talk about the development of FFOCT as a cancer diagnosis tool.
