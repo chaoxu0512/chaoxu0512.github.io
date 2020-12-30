@@ -31,7 +31,7 @@ Insertion loss is the loss of signal power resulting from the insertion of a dev
 
 If the power transmitted to the load before insertion is $P_T$ and the power received by the load after insertion is $P_R$, then the insertion loss in dB is given by,
 
-$$IL(dB) = 10{\log _{10}}\frac{{{P_T}}}{{{P_R}}}$$
+$$IL(dB) = 10{\log _{10}}(P_T/P_R)$$
 
 # 3. Fiber cleanser and fiber microscope
 
