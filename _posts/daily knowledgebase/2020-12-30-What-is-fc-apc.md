@@ -1,5 +1,5 @@
 ---
- layout:     post
+layout:     post
 title:      What is FC/APC
 subtitle:   
 date:       2020-12-30
@@ -30,9 +30,8 @@ These connectors allow the surfaces of two connected fibers to be in direct cont
 Insertion loss is the loss of signal power resulting from the insertion of a device in a transmission line or optical fiber and is usually expressed in decibels (dB).
 
 If the power transmitted to the load before insertion is $P_T$ and the power received by the load after insertion is $P_R$, then the insertion loss in dB is given by,
-$$
-I L(\mathrm{~dB})=10 \log _{10} \frac{P_{\mathrm{T}}}{P_{\mathrm{R}}}
-$$
+
+$I L(\mathrm{~dB})=10 \log _{10} \frac{P_{\mathrm{T}}}{P_{\mathrm{R}}}$
 
 # 3. Fiber cleanser and fiber microscope
 
