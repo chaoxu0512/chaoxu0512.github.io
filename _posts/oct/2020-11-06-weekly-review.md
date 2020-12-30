@@ -12,11 +12,11 @@ tags:
     - Optical Coherence Tomography
 ---
 
-#### 1. Prepare for first meeting
+# 1. Prepare for first meeting
 
-##### 1.1 Self introduction
+## 1.1 Self introduction
 
-##### 1.2 Visible light OCT for retinal imaging
+## 1.2 Visible light OCT for retinal imaging
 
 | Strength                          | Challenge                       |
 | --------------------------------- | ------------------------------- |
@@ -37,7 +37,7 @@ tags:
 - •Clear detection of the thickening of Bruch’s membrane, which is the early sign of age-related macular degeneration (deep imaging depth); 
 - •Access to oxygen saturation (sO2) or retinal capillary oximetry (strong Hemoglobin absorption).
 
-##### 1.3 Full field OCT
+## 1.3 Full field OCT
 
 **Traditional OCT**: 
 
@@ -114,7 +114,7 @@ En face imaging at given depth without scanning -> high NA (0.3-0.5) -> high lat
 
 - Difficult to acquire volumetric images.
 
-##### 1.4 Mendeley and LaTeX
+## 1.4 Mendeley and LaTeX
 
 <p align="center">
 <img src="https://i.loli.net/2020/11/06/v6wfpCq97EhWbiY.png" width=500pix>
@@ -122,14 +122,13 @@ En face imaging at given depth without scanning -> high NA (0.3-0.5) -> high lat
 
 <p style="text-align:center;">Fig.4. Mendeley, Texlive and Texmaker.
 </p>
-
-#### 2. Recruitment of Post-doctor researcher
+# 2. Recruitment of Post-doctor researcher
 
 Share the post on xiaomuchong, cc98 of ZJU, WeChat group and circle.
 
-#### 3. Paper and book review
+# 3. Paper and book review
 
-##### 3.1 Chapter 2 of Fujimoto Book
+## 3.1 Chapter 2 of Fujimoto Book
 
 **Various scanning methods?**
 
