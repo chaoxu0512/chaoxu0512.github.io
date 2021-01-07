@@ -22,6 +22,16 @@ tags:
 
 在使用ADAFC3型号的adaptor时，还有一个情况，也是和设备的接口参数有关。如下图1，我首先测量L处fiber connector的输出功率$P_1$，然后连接好L connector、fiber adaptor和O connector，测得功率为$P_2$，结果$P_1$<$P_2$。注意到，每次测量功率的时候，我都是将对应的fiber connector连接到光谱仪的optical input。出现这种情况，很有可能就是因为两种connector与optical input存在不同的接触效果。
 
+<p align="center">
+<img src="https://i.loli.net/2021/01/07/fxjOy1h2voeJNm4.jpg" width=400pix>
+</p>
+<p style="text-align:center;">图1. L connector、fiber adaptor和O connector.</p>
+
+<p align="center">
+<img src="https://i.loli.net/2021/01/07/WlgsQeIjC8RcGvN.jpg" width=400pix>
+</p>
+<p style="text-align:center;">图2.光谱仪的optical input.</p>
+
 另外一个因素，我提一下，虽然应该与这个情况无关。L connector连接的光纤是HI 780，O connector连接的光纤是780HP，两者Core NA和Core diameter有些差别。
 
 **3.今天导师提到，在系统中若使用了780HP的光纤，则其他光纤组件均应为780HP，为何？**
