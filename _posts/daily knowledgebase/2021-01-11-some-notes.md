@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      今日笔记
-subtitle:   
+title:      OCT笔记1
+subtitle:   Optical Coherence Tomography - Technology and Application
 date:       2021-01-11
 author:     Chao Xu
 header-style: text
