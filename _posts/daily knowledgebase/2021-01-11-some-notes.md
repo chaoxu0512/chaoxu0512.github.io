@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      OCT笔记1
+title:      Why low coherence light in OCT
 subtitle:   Optical Coherence Tomography - Technology and Application
 date:       2021-01-11
 author:     Chao Xu

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      OCT笔记
+title:      OCT系统里的焦深
 subtitle:   Optical Coherence Tomography - Technology and Applications
 date:       2021-01-12
 author:     Chao Xu

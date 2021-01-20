@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      今日疑问和知识
+title:      FC/APC和FC/PC，选哪个？
 subtitle:   
 date:       2021-01-06
 author:     Chao Xu
