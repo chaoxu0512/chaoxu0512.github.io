@@ -158,4 +158,54 @@ For rats
 | frame grabber                                      | PCIe-1433, National Instruments                            |       |                                                              |
 | Neon calibration light source                      | NE-1, Ocean Optics                                         |       | Calibrate  the working wavelengths                           |
 
+#  Ji Yi
+
+## Visible light optical coherence tomography angiography (vis-OCTA) facilitates local microvascular oximetry in the human retina
+
+​         ![image-20210123223700634](http://imghost.cx0512.com/images/2021/01/23/20210123223700.png)                      
+
+| Description                                    | Model                             | Price | Note                                                         |
+| ---------------------------------------------- | --------------------------------- | ----- | ------------------------------------------------------------ |
+| Two edge filter                                |                                   |       | range from 545 to 580nm                                      |
+| a fiber collimator                             | (f= 7.5 mm)                       |       | On the sample arm                                            |
+| a pair of galvanometer mirrors                 | GVS002, Thorlabs                  |       |                                                              |
+| a 2:1 telescope relay system                   | EL-3-10, Optotune AG, Switzerland |       | an electronically tunable lens for  fast-focusing adjustment |
+| fiber collimator                               | f=60 mm                           |       | Part of spectrometer                                         |
+| 2400 lines/mm transmission diffraction grating | Wasatch Photonics, USA            |       | Part of spectrometer                                         |
+| focusing lens                                  |                                   |       | Part of spectrometer                                         |
+| line scan camera                               | E2V Octoplus, Teledyne, France    |       |                                                              |
+|                                                |                                   |       | The laser power on the pupil was  less than 0.25mW           |
+
+ 
+
+# Vivek J. Srinivasan
+
+## Structural and functional human retinal imaging with a fiber-based visible light OCT ophthalmoscope
+
+ ![image-20210123223715304](http://imghost.cx0512.com/images/2021/01/23/20210123223715.png)
+
+| Description                                        | Model                      | Price | Note                                                         |
+| -------------------------------------------------- | -------------------------- | ----- | ------------------------------------------------------------ |
+| SC light source                                    | SuperK EXU3, NKT Photonics |       | ∼ 600 µm diameter                                            |
+| Filters                                            |                            |       | filtered to a range of 475 - 650 nm                          |
+| 460-HP fiber coupler with a 90/10  splitting ratio | TW560R2A2, Thorlabs        |       | The 90/10 coupler was used to  maximize the coupling of backscattered light from the sample to the detection  port. |
+| achromatic doublet                                 | (f = 10 mm)                |       | Collimator in the sample arm.  The collimated beam (∼2 mm in diameter) |
+| a quasi-telecentric beam  expander/compressor      | f1= 37.5mm,f2= 50mm        |       | Consisting of two achromatic  doublets pairs.  The first configuration with  larger magnification (1.33) allowed for an angular field-of-view (FOV) of 25°.  The second configuration with smaller magnification (0.75) increased the  angular FOV to 40°. |
+| variable neutral density filte                     |                            |       | adjust the reference power                                   |
+| a 20 mm water cell                                 |                            |       | dispersion balancing                                         |
+| fiber collimator                                   | f=50 mm                    |       | Part of spectrometer                                         |
+| 2400 lines/mm transmission diffraction grating     | Wasatch Photonics, USA     |       | Part of spectrometer                                         |
+| achromatic doublet pair focusing lens              | f=125mm                    |       | Part of spectrometer                                         |
+| line scan camera                                   | Basler SPL 4096-140km      |       |                                                              |
+
+ 
+
+## Ultrahigh resolution retinal imaging by visible light OCT with longitudinal achromatization
+
+ ![image-20210123223724276](http://imghost.cx0512.com/images/2021/01/23/20210123223724.png)
+
+A 7 mm focal length protected silver reflective collimator (90° off-axis parabolic mirror, **RC02APC-P01**, Thorlabs Inc.) was used to collimate without introducing chromatic aberrations (instead of refractive collimator).
+
+N-BK7 glass was used in the reference arm to approximately match chromatic dispersion caused by the AL in the sample arm. All other sample arm lenses were matched by identical lenses in the reference arm. The eye dispersion was coarsely balanced by a 20 mm water cell in the reference arm. Residual second- and third-order dispersion mismatches were numerically corrected in post-processing to optimize the axial image resolution.
+
  
