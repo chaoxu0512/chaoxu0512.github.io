@@ -24,5 +24,4 @@ tags:
 
 所谓OCM (Optical Coherence Microscopy)，就是采用了极高的数值孔径，以至于成像的焦深小于相干长度，以此达到较高的横向分辨率。因此，这种成像方式一般为en face imaging。有一种相关的技术就叫做Full-filed OCT:
 
-*Full-field OCT performs high resolution en face imaging with coherence-gated detection using a Linnik interferometer and CCD cameras. Full-field OCT achieves cellular resolution imaging, and*
-*because a single spatial mode light is not required, it has the advantage that high axial resolution is possible using low-cost thermal or gas discharge light sources.*
+*Full-field OCT performs high resolution en face imaging with coherence-gated detection using a Linnik interferometer and CCD cameras. Full-field OCT achieves cellular resolution imaging, and because a single spatial mode light is not required, it has the advantage that high axial resolution is possible using low-cost thermal or gas discharge light sources.*
