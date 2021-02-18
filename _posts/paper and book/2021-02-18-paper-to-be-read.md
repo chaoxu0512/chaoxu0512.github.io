@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      paper to be read
+title:      Paper to be read
 subtitle:   
 date:       2021-02-18
 author:     Chao Xu
