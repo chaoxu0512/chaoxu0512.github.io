@@ -9,7 +9,8 @@ hidden: false
 mathjax: true
 catalog: true
 tags:
-    - Optical Coherence Tomography
+    - Paper and Book
+    - FFOCT
 ---
 
 ## 030 [Fingerprint imaging from the inside of a finger with full-field optical coherence tomography](https://doi.org/10.1364/boe.6.004465) (2015)

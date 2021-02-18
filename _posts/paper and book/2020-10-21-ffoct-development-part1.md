@@ -9,7 +9,8 @@ hidden: false
 mathjax: true
 catalog: true
 tags:
-    - Optical Coherence Tomography
+    - Paper and Book
+    - FFOCT
 ---
 
 ## 001 [Full-field optical coherence microscopy](https://www.osapublishing.org/abstract.cfm?URI=ol-23-4-244) (1998)

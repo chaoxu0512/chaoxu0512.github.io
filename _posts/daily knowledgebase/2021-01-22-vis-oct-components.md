@@ -9,12 +9,12 @@ hidden: false
 mathjax: true
 catalog: true
 tags:
-    - Optical Coherence Tomography
+    - Daily Knowledgebase
 ---
 
-# H. F. Zhang
+# 1. H. F. Zhang
 
-## Colposcopic imaging using visible-light optical coherence tomography
+## 1.1 Colposcopic imaging using visible-light optical coherence tomography
 
 ![image-20210122230027342](http://imghost.cx0512.com/images/2021/01/22/20210122230300.png)
 
@@ -34,7 +34,7 @@ tags:
 
  
 
-## Designing visible-light optical coherence tomography towards clinics
+## 1.2 Designing visible-light optical coherence tomography towards clinics
 
  ![image-20210122230055358](http://imghost.cx0512.com/images/2021/01/22/20210122230314.png)
 
@@ -47,9 +47,9 @@ tags:
 
  
 
-## Visible-light optical coherence tomography fibergraphy for quantitative imaging of retinal ganglion cell axon bundles
+## 1.3 Visible-light optical coherence tomography fibergraphy for quantitative imaging of retinal ganglion cell axon bundles
 
- ![image-20210122230109555](http://imghost.cx0512.com/images/2021/01/22/20210122230318.png)
+ <img src="http://imghost.cx0512.com/images/2021/01/22/20210122230318.png" alt="image-20210122230109555"  />
 
 | Description                    | Model                                            | Price | Note                                                         |
 | ------------------------------ | ------------------------------------------------ | ----- | ------------------------------------------------------------ |
@@ -61,7 +61,7 @@ tags:
 
  
 
-## Human retinal imaging using visible-light optical coherence tomography guided by scanning laser ophthalmoscopy
+## 1.4 Human retinal imaging using visible-light optical coherence tomography guided by scanning laser ophthalmoscopy
 
  ![image-20210122230122064](http://imghost.cx0512.com/images/2021/01/22/20210122230321.png)
 
@@ -79,7 +79,7 @@ tags:
 
  
 
-## Spectroscopic Doppler analysis for visible-light optical coherence tomography
+## 1.5 Spectroscopic Doppler analysis for visible-light optical coherence tomography
 
  ![image-20210122230131606](C:/Users/NA/AppData/Roaming/Typora/typora-user-images/image-20210122230131606.png)
 
@@ -99,7 +99,7 @@ tags:
 
  
 
-## Dual-band optical coherence tomography using a single supercontinuum laser source
+## 1.6 Dual-band optical coherence tomography using a single supercontinuum laser source
 
  ![image-20210122230146501](http://imghost.cx0512.com/images/2021/01/22/20210122230326.png)
 
@@ -115,17 +115,17 @@ tags:
 
  
 
-## Visible-light optical coherence tomography oximetry based on circumpapillary scan and graph-search segmentation 
+## 1.7 Visible-light optical coherence tomography oximetry based on circumpapillary scan and graph-search segmentation 
 
 (For rats) First, we changed the 50/50 cube beam splitter to a **30/70 (sample/reference arm) cube beam splitter** for increased sample arm collection efficiency. Second, to increase our field-of-view, the Keplerian telescope was modified to a **6:1 magnification** (previously 5:1), using a pair of 150 mm and 25 mm achromatic lenses. In addition to the larger magnification, these lenses had a 1-inch diameter (previous 0.5 inch), enabling a larger scanning angle from the galvanometers to be used without image distortion from the lens edges. Illumination power at the pupil was ~1 mW.
 
  
 
-# Yali Jia
+# 2. Yali Jia
 
  
 
-## Retinal capillary oximetry with visible light optical coherence tomography
+## 2.1 Retinal capillary oximetry with visible light optical coherence tomography
 
 For rats
 
@@ -138,7 +138,7 @@ For rats
 
  
 
-## Angiographic and structural imaging using high axial resolution fiber-based visible-light OCT
+## 2.2 Angiographic and structural imaging using high axial resolution fiber-based visible-light OCT
 
  ![image-20210122230159081](http://imghost.cx0512.com/images/2021/01/22/20210122230330.png)
 
@@ -158,9 +158,9 @@ For rats
 | frame grabber                                      | PCIe-1433, National Instruments                            |       |                                                              |
 | Neon calibration light source                      | NE-1, Ocean Optics                                         |       | Calibrate  the working wavelengths                           |
 
-#  Ji Yi
+#  3. Ji Yi
 
-## Visible light optical coherence tomography angiography (vis-OCTA) facilitates local microvascular oximetry in the human retina
+## 3.1 Visible light optical coherence tomography angiography (vis-OCTA) facilitates local microvascular oximetry in the human retina
 
 ​         ![image-20210123223700634](http://imghost.cx0512.com/images/2021/01/23/20210123223700.png)                      
 
@@ -178,9 +178,9 @@ For rats
 
  
 
-# Vivek J. Srinivasan
+# 4. Vivek J. Srinivasan
 
-## Structural and functional human retinal imaging with a fiber-based visible light OCT ophthalmoscope
+## 4.1 Structural and functional human retinal imaging with a fiber-based visible light OCT ophthalmoscope
 
  ![image-20210123223715304](http://imghost.cx0512.com/images/2021/01/23/20210123223715.png)
 
@@ -200,7 +200,7 @@ For rats
 
  
 
-## Ultrahigh resolution retinal imaging by visible light OCT with longitudinal achromatization
+## 4.2 Ultrahigh resolution retinal imaging by visible light OCT with longitudinal achromatization
 
  ![image-20210123223724276](http://imghost.cx0512.com/images/2021/01/23/20210123223724.png)
 

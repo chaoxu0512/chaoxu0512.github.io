@@ -9,7 +9,8 @@ hidden: false
 mathjax: true
 catalog: true
 tags:
-    - Optical Coherence Tomography
+    - Paper and Book
+    - FFOCT
 ---
 
 ## 024 [Full-Field Optical Coherence Microscopy as a tool for intraoperative surgery and tissue selection](https://doi.org/10.1364/NTM.2013.NW5B.1) (2013)

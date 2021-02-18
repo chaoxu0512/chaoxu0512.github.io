@@ -9,7 +9,8 @@ hidden: false
 mathjax: true
 catalog: true
 tags:
-    - Daily Knowledgebase
+    - Paper and Book
+    - Optical Coherence Tomography-Technology and Applications
 ---
 
 **1.**在Optical Coherence Tomography - Technology and Applications的第10页中，提到：

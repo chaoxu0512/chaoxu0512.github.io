@@ -9,7 +9,8 @@ hidden: false
 mathjax: true
 catalog: true
 tags:
-    - Optical Coherence Tomography
+    - Paper and Book
+    - Optical Coherence Tomography-Technology and Applications
 ---
 
 This is the note for the book `Optical Coherence Tomography-Technology and Applications` [[1]](https://www.springer.com/gp/book/9783319064185).

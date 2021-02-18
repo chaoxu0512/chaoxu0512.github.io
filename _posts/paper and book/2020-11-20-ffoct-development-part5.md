@@ -9,7 +9,8 @@ hidden: false
 mathjax: true
 catalog: true
 tags:
-    - Optical Coherence Tomography
+    - Paper and Book
+    - FFOCT
 ---
 
 ## 026 [Optical biopsy on head and neck tissue using full-field OCT: a pilot study](https://doi.org/10.1117/12.2036959) (2014)

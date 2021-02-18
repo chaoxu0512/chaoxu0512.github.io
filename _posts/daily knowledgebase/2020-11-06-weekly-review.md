@@ -9,7 +9,7 @@ hidden: false
 mathjax: true
 catalog: true
 tags:
-    - Optical Coherence Tomography
+    - Daily Knowledgebase
 ---
 
 # 1. Prepare for first meeting

@@ -9,7 +9,8 @@ hidden: false
 mathjax: true
 catalog: true
 tags:
-    - Optical Coherence Tomography
+    - Paper and Book
+    - FFOCT
 ---
 
 ## 036 [Internal Fingerprint imaging with Visible Light Full-Field Optical Coherence Tomography](https://doi.org/10.1364/TRANSLATIONAL.2016.TTh1B.4) (2016)

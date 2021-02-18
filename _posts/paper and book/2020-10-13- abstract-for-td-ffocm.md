@@ -9,7 +9,9 @@ hidden: true
 mathjax: true
 catalog: true
 tags:
+    - Paper and Book
     - Optical Coherence Tomography
+    - FFOCT
 ---
 
 # 1. Signal Introduction: OCT Acquisition and Multiplexing

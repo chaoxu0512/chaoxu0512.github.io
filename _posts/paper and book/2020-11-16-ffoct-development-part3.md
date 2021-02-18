@@ -9,7 +9,8 @@ hidden: false
 mathjax: true
 catalog: true
 tags:
-    - Optical Coherence Tomography
+    - Paper and Book
+    - FFOCT
 ---
 
 ## 020 [Flexible and rigid endoscopy for high-resolution in-depth imaging with Full-Field OCT](https://www.osapublishing.org/abstract.cfm?URI=BIOMED-2012-BTu4B.4) (2012)
