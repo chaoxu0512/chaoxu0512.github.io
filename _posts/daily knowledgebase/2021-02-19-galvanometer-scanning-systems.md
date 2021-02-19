@@ -73,3 +73,13 @@ The ratio between the input voltage and mirror position is switchable, either 0.
 The angular orientation (position) of the mirror is optically encoded using an array of photocells and a light source, both of which are integrated into the interior of the galvanometer housing. Each mirror orientation corresponds to a unique ratio of signals from the photodiodes, which allows for the closed-loop operation of the galvo mirror system.
 
 The systems can be driven to scan their full mechanical range of ±12.5° at a frequency of 100 Hz when using a square wave control input voltage or at 250 Hz when using a sine wave. For a single small-angle step of 0.2°, it takes the mirror 300 μs to come to rest at the command position. The scan frequency range is DC to 1 kHz and the angular resolution is 0.0008° (15 μrad).
+
+**CMOS signal for external enabling of the driver board**
+
+CMOS gate circuits have input and output signal specifications that are quite different from TTL. For a CMOS gate operating at a power supply voltage of 5 volts, the acceptable input signal voltages range from 0 volts to 1.5 volts for a “**low**” logic state, and 3.5 volts to 5 volts for a “**high**” logic state
+
+(4) <u>How to control  the mechanical scan angle?</u>
+
+<u>Setting the Volts/Degree Scaling Factor.</u>
+
+<u>DAQ card or function generator.</u>
