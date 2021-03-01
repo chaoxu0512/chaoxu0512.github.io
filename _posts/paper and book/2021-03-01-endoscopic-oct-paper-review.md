@@ -15,7 +15,7 @@ tags:
 
 Based on the direction of the imaging beam with respect to the longitudinal axis of the probe, OCT endoscopes can be divided into `side-viewing` endoscopes and `forward-viewing` endoscopes.  
 
-Based on the location of the beam scanning device, OCT endoscopes can be divided into proximal-end scanning probes and distal-end scanning probes. 
+Based on the location of the beam scanning device, OCT endoscopes can be divided into `proximal-end scanning` probes and `distal-end scanning` probes. 
 
 <img src="http://imghost.cx0512.com/images/2021/03/01/20210301142655.png" alt="image-20210301142648260" style="zoom: 80%;" />
 
