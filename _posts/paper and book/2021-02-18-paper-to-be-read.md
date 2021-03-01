@@ -20,7 +20,7 @@ tags:
 
 (4) [Mems scanning mirrors for optical coherence tomography](https://doi.org/10.3390/photonics8010006)
 
-(5) [Galvanometer scanning for optical coherence tomography](https://doi.org/10.1364/FIO.2016.JTh2A.129)
+(5) [Optimization of galvanometer scanning for optical coherence tomography](https://doi.org/10.1364/AO.54.005495)
 
 (6) [MEMS-in-the-lens architecture for a miniature high-NA laser scanning microscope](http://dx.doi.org/10.1038/s41377-019-0167-5)
 
