@@ -33,3 +33,6 @@ fiber coupler输出的一路就是reference arm。在到达collimator以前，�
 接着，光束从reflective collimator出来以后，会通过一个prism pair，我们采用的是Edmund的[N-SF11 uncoated 15mm right angle prisms](https://www.edmundoptics.com/f/n-sf11-right-angle-prisms/12466/)，使用折射率更高的玻璃可以增大光程差，从而减小整个reference arm的长度。 之所以不采用coated prism，是因为在我们的应用中，我们希望光顺利通过棱镜对的直角面。不过，我们现在还在国内寻找合适的生产商，降低成本，缩短供应时间。**这里有一个关键就是prism的holder，这是需要自己设计的**。我们使两个prism的hypotenuse surface<u>尽量贴合</u>， 固定一个prism，然后使用linear translational stage控制另一个prism沿着斜面前后移动，改变光程。这里需要精确控制prism的水平和贴合，就对holder提出了很高的要求。另外，用胶水粘prism时，也需要特别注意其底部的平行。要是粘错了，可以用Acetone浸泡24小时，清除胶水。在hypotenuse surface之间加油的注意事项，前文已经提到了。
 
 之后，我们还需要一个[NDC-50C-4M-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=NDC-50C-4M-A)控制reference arm的光强度。最后，使用的反射镜为protected silver 的[PF05-03-P01](https://www.thorlabs.com/thorproduct.cfm?partnumber=PF05-03-P01)。这里有一个点，**mirror应该放在哪个位置，才最有利于coupling efficiency的最大化**；另外，**为什么选择镀银的反射镜，而不是镀金或镀铝**。
+
+然后，需要考虑的就是sample arm。经过FC/APC的fiber connector以后，对于endoscopic OCT，我们需要的一个探针，其关键就是rotary joint（[Endoscopic optical coherence tomography: technologies and clinical applications](http://dx.doi.org/10.1364/boe.8.002405)）；对于ophthalmological OCT，首先，我需要知道galvo system是如何工作的。
+
