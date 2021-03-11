@@ -28,3 +28,6 @@ tags:
 
 (8) [Analysis of intermediary scan-lens and tube-lens mechanisms for optical coherence tomography](https://doi.org/10.1364/AO.55.000646)
 
+(9) [Diffractive catheter for ultrahigh-resolution spectral-domain volumetric OCT imaging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4259102/pdf/nihms-646105.pdf)
+
+(10) [High frame-rate intravascular optical frequency-domain imaging in vivo](https://doi.org/10.1364/BOE.5.000223)
