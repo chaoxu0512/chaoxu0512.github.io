@@ -27,3 +27,8 @@ tags:
 (6) 2021–03-08: [Optimal operational conditions for supercontinuum-based ultrahigh-resolution endoscopic OCT imaging](https://doi.org/10.1364/OL.41.000250)
 
 (7) 2021-03-11: [Super-achromatic monolithic microprobe for ultrahigh-resolution endoscopic optical coherence tomography at 800 nm](https://doi.org/10.1038/s41467-017-01494-4)
+
+A 25-gauge hypodermic tube with a side opening was employed to protect the distal end, and a torque coil of a 600 µm diameter was used to protect the rest of the optical fiber and transfer rotation from the proximal to the distal end for performing circumferential beam scanning. 
+
+(8) 2021-03-12: [Diffractive catheter for ultrahigh-resolution spectral-domain volumetric OCT imaging](https://doi.org/10.1364/OL.39.002016)
+
