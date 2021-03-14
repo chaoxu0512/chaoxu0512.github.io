@@ -32,3 +32,5 @@ A 25-gauge hypodermic tube with a side opening was employed to protect the dista
 
 (8) 2021-03-12: [Diffractive catheter for ultrahigh-resolution spectral-domain volumetric OCT imaging](https://doi.org/10.1364/OL.39.002016)
 
+(9) 2021-03-14: [High frame-rate intravascular optical frequency-domain imaging in vivo](https://doi.org/10.1364/BOE.5.000223)
+
