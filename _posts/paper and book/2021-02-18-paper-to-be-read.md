@@ -26,7 +26,7 @@ tags:
 
 (7) ~~[Endoscopic optical coherence tomography: technologies and clinical applications [Invited]](http://dx.doi.org/10.1364/boe.8.002405)~~
 
-(8) [Analysis of intermediary scan-lens and tube-lens mechanisms for optical coherence tomography](https://doi.org/10.1364/AO.55.000646)
+(8) ~~[Analysis of intermediary scan-lens and tube-lens mechanisms for optical coherence tomography](https://doi.org/10.1364/AO.55.000646)~~
 
 (9) ~~[Diffractive catheter for ultrahigh-resolution spectral-domain volumetric OCT imaging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4259102/pdf/nihms-646105.pdf)~~
 
