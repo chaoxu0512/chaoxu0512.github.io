@@ -39,3 +39,8 @@ A 25-gauge hypodermic tube with a side opening was employed to protect the dista
 (11) 2021-03-23: [Inverse Design and 3D Printing of a Metalens on an Optical Fiber Tip for Direct Laser Lithography](https://doi.org/10.1021/acs.nanolett.0c04463)
 
 The objective-first inverse method is used to design a metalens, which can be fabricated on the tip of a single mode fibre. The circular metalens can transform the parallel waveform to spherical wavefront, with a focal length of 8 um at the wavelength of 980 nm and a focal spot of 100 nm. For its demonstration use, the metalens is integrated with a 780 nm laser platform for two-photon direct laser lithography.
+
+Insight: Can I use this design method to create desired pattern for ball lens used in the catheter? 
+
+Limitation: Manual control in the z-axis for the laser lithography. 
+
