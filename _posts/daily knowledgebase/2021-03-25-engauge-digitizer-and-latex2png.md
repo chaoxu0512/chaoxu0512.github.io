@@ -15,7 +15,7 @@ tags:
 
 **1. engauge-digitizer**
 
-项目地址：https://github.com/markummitchell/engauge-digitizer
+项目地址：[https://github.com/markummitchell/engauge-digitizer](https://github.com/markummitchell/engauge-digitizer)
 
 优势：图像化界面，manual很清晰（超级简化版Origin?）。
 
@@ -25,13 +25,13 @@ tags:
 
 软件里的教程很清楚，也简单易用，这里就不多讲了。
 
-<img src="https://mmbiz.qpic.cn/mmbiz_png/8jeUnCy3rwvudjufO1tlFpvcic2eDQOMljXrotjXCuS1cEAJ5OowegduoaKFcichakOmaiazHH4aaUBRp0N23hibxw/640?wx_fmt=png" alt="img" style="zoom:67%;" />
+<img src="http://imghost.cx0512.com/images/2021/03/25/20210325231643.png" alt="Snipaste_2021-03-25_22-56-05" style="zoom:67%;" />
 
 最后提取的数据点可以保存到csv文件。
 
 **2. latex2png**
 
-项目地址：http://latex2png.com/
+项目地址：[http://latex2png.com/](http://latex2png.com/)
 
 优势：简单，会mathtype就行
 
@@ -39,7 +39,7 @@ tags:
 
 1)   Draw yourgraphs/images in Illustrator.
 
-2)   Use http://latex2png.com/. Type your latexequation in there, then preview at 800 dpi.
+2)   Use [http://latex2png.com/](http://latex2png.com/). Type your latexequation in there, then preview at 800 dpi.
 
 3)   Save theimage, then load into Illustrator.
 
@@ -53,9 +53,9 @@ tags:
 
 8)  You now have a fully editable equation looking exactly like it does in Latex. You canscale/adjust and colour to your requirements.
 
-(来自：https://bit.ly/3fcY05K)原谅我太懒，也没时间翻译了，但相信都能懂。效果如下：
+(来自：[https://bit.ly/3fcY05K](https://bit.ly/3fcY05K))原谅我太懒，也没时间翻译了，但相信都能懂。效果如下：
 
-<img src="https://mmbiz.qpic.cn/mmbiz_png/8jeUnCy3rwvudjufO1tlFpvcic2eDQOMlIiciaGPhjGhMYSkzq6X44sz3UZgUsxeHu1qjMV0y6bOujkz6mwjuIwtg/640?wx_fmt=png" alt="img" style="zoom:67%;" />
+<img src="http://imghost.cx0512.com/images/2021/03/25/20210325231651.png" alt="Snipaste_2021-03-25_23-04-07" style="zoom:67%;" />
 
 
 
