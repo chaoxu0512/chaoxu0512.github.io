@@ -44,3 +44,5 @@ Insight: Can I use this design method to create desired pattern for ball lens us
 
 Limitation: Manual control in the z-axis for the laser lithography. 
 
+(12) 2021-04-07: [Broadband rotary joint for high-speed ultrahigh-resolution endoscopic OCT imaging at 800 nm](https://doi.org/10.1364/OL.42.004978)
+
