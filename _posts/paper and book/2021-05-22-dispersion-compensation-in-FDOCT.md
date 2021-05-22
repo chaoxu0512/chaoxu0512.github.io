@@ -27,6 +27,8 @@ The sample is illuminated with broadband light. Backreflected or backscattered l
 ---
 
 Frequency and delay-dependent phase:  
+
+
 $$
 S_{\text {int }}(\omega)=2 \operatorname{Re}\left\{E_{R}(\omega)^{*} E_{S}(\omega)\right\}=2 \operatorname{Re}\left\{\sum_{n} \sqrt{I_{n}(\omega) I_{r}(\omega)} \exp \left[i\left(\omega \tau_{n}+\Phi\left(\omega, \tau_{n}\right)\right)\right]\right\}
 $$
@@ -34,7 +36,11 @@ $$
 
 $I_n$ is the intensity of light reflected from the n-th layer in the sample, $I_r$ is the intensity of light reflected from the reference arm, and $τ_n$ is the optical group delay of the n-th reflection, relative to the reference light path. <u>$Φ(ω,τ_n)$ is a general frequency and delay-dependent phase that includes higher order dispersive terms.</u>  
 
+---
+
 Theoretical axial resolution:
+
+
 $$
 \Delta z=\frac{2 \ln 2}{\pi} \frac{\lambda_{0}^{2}}{\Delta \lambda}
 $$
