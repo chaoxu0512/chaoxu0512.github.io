@@ -30,13 +30,21 @@ Frequency and delay-dependent phase:
 $$
 S_{\text {int }}(\omega)=2 \operatorname{Re}\left\{E_{R}(\omega)^{*} E_{S}(\omega)\right\}=2 \operatorname{Re}\left\{\sum_{n} \sqrt{I_{n}(\omega) I_{r}(\omega)} \exp \left[i\left(\omega \tau_{n}+\Phi\left(\omega, \tau_{n}\right)\right)\right]\right\}
 $$
-$I_n$ is the intensity of light reflected from the n-th layer in the sample, $I_r$ is the intensity of light reflected from the reference arm, and $τ_n$ is the optical group delay of the n-th reflection, relative to the reference light path. <u>Φ(ω,$τ_n$) is a general frequency and delay-dependent phase that includes higher order dispersive terms.</u>  
+
+
+$I_n$ is the intensity of light reflected from the n-th layer in the sample, $I_r$ is the intensity of light reflected from the reference arm, and $τ_n$ is the optical group delay of the n-th reflection, relative to the reference light path. <u>$Φ(ω,τ_n)$ is a general frequency and delay-dependent phase that includes higher order dispersive terms.</u>  
 
 Theoretical axial resolution:
 $$
 \Delta z=\frac{2 \ln 2}{\pi} \frac{\lambda_{0}^{2}}{\Delta \lambda}
 $$
+
+
 where ∆λ is the full width half maximum (FWHM) of the light source and $λ_0$ is the center wavelength.  
 
 ---
+
+How to choose a proper bandwidth or spectral range of a spectrometer?
+
+To be read: [Ultrahigh-resolution, high-speed, Fourier domain optical coherence tomography and methods for dispersion compensation](https://doi.org/10.1117/1.1482379)
 
