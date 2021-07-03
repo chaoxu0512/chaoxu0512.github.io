@@ -14,15 +14,15 @@ tags:
 
 
 
+(14) 2021-07-04: [Improved signal-to-noise ratio in spectral-domain compared with time-domain optical coherence tomography](https://doi.org/10.1364/OL.28.002067)
 
+> The shot-noise density per detector element is reduced by a factor of 2 because only half of the reference arm’s optical power is incident upon each detection element.  
 
+> Extending the above analysis demonstrates that the shot-noise contribution to the system is reduced by a factor approximately equal to the number of detectors over which the spectrum is dispersed.  
 
+> <u>*By use of Nyquist’s theorem, the bandwidth per detector element (BW/M) in Eq. (8) is replaced by 1/(2${\tau _i}$), where ${\tau _i}$ is the integration time of the array.*</u>  
 
-
-
-
-
-
+> In conclusion, the increased SNR in SD OCT compared with that of TD OCT is based on the significant reduction of shot noise obtained by replacement of the single-element detector with a multielement array detector.  
 
 (13) 2021-07-03: [Optimal interferometer designs for optical coherence tomography](https://doi.org/10.1364/OL.24.001484)
 
