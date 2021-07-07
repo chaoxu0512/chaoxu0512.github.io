@@ -12,7 +12,12 @@ tags:
     - Paper and Book
 ---
 
+(15) 2021-07-08: [Broadband rotary joint for high-speed ultrahigh-resolution endoscopic OCT imaging at 800 nm](https://doi.org/10.1364/OL.42.004978)
 
+> The polarization state of the sample and reference arm was carefully managed by using polarization controllers to maximize the interference fringe contrast.
+
+> The fluctuation in the double-pass coupling efficiency was measured by connecting a short piece (∼5 cm long) of flat
+> cleaved fiber to the rotary arm. The fluctuation of backreflected light intensity from the fiber tip during circumferential  scanning was measured to be less than ±2% at a speed of 5 revolution/s (rps).   
 
 (14) 2021-07-04: [Improved signal-to-noise ratio in spectral-domain compared with time-domain optical coherence tomography](https://doi.org/10.1364/OL.28.002067)
 
