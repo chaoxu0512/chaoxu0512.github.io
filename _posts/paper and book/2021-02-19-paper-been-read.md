@@ -12,6 +12,14 @@ tags:
     - Paper and Book
 ---
 
+
+
+
+
+(16) 2021-07-13: [Shot-noise limited, supercontinuum-based optical coherence tomography](https://doi.org/10.1038/s41377-021-00574-x)
+
+**Worth reading again!**
+
 (15) 2021-07-08: [Broadband rotary joint for high-speed ultrahigh-resolution endoscopic OCT imaging at 800 nm](https://doi.org/10.1364/OL.42.004978)
 
 > The polarization state of the sample and reference arm was carefully managed by using polarization controllers to maximize the interference fringe contrast.
