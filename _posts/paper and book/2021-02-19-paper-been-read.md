@@ -14,7 +14,7 @@ tags:
 
 
 
-
+(18) 2021-07-17: [DeepSTORM3D: dense 3D localization microscopy and PSF design by deep learning](https://doi.org./10.1038/s41592-020-0853-5)
 
 (17) 2021-07-15: [Deep-Learning-Based Virtual Refocusing of Images Using an Engineered Point-Spread Function](https://pubs.acs.org/action/showCitFormats?doi=10.1021/acsphotonics.1c00660&ref=pdf)
 
