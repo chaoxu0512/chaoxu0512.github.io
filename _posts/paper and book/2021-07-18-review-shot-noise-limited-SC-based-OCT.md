@@ -14,7 +14,7 @@ tags:
     - FFOCT
 ---
 
-If you are interested in this paper `Shot-noise limited, supercontinuum-based optical coherence tomography`, please find it [here](https://doi.org/10.1038/s41592-020-0853-5) [[1]](https://doi.org/10.1038/s41592-020-0853-5).
+If you are interested in this paper `Shot-noise limited, supercontinuum-based optical coherence tomography`, please find it [here](https://doi.org/10.1038/s41592-020-0853-5).
 
 # Main contribution
 
