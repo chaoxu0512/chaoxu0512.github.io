@@ -74,9 +74,9 @@ The imaging performance of the ANDi SC source is also tested on a mouse retina, 
 
 The sensitivity of OCT system is commonly expressed as the signal-noise-ratio for a perfect reflector:
 
-$Sensitivity = SN{R_{\max }} = {S_{{{\max }^2}}}/(\sigma _{r + d}^2 + \sigma _{shot}^2 + \sigma _{ex}^2)$
+$Sensitivity = SNR_{\max } = {S_{{{\max }^2}}}/(\sigma _{r + d}^2 + \sigma _{shot}^2 + \sigma _{ex}^2)$
 
- where $SN{R_{\max }}$ is the maximum of the detected point spread function of the reflector, and the sigmas are the respective noise contributions from spectrometer, shot noise and excess noise from the SC source. 
+ where $SNR_{\max }$ is the maximum of the detected point spread function of the reflector, and the sigmas are the respective noise contributions from spectrometer, shot noise and excess noise from the SC source. 
 
 From Fig. 4, we can see that the 80MHZ and 320MHZ SuperK extreme sources must be operated under a reference power (about 250 counts), at which the total noise level is dominated by the RIN of the source. It indeed limits the maximum sensitivity. For the ANDi source, on the contrary, the reference power can be increased very close to the shot-noise limit until the detector reaches its saturation. Considering the limitation of high read out and dark noise of the InGaAs detector used in the OCT system,   the maximum reference power is reduced to about 1000 counts, leading to a maximum sensitivity of 96 dB. This is 7 dB above the maximum achievable sensitivity when using the 320 MHz SuperK extreme source, but still 6 dB below the maximum shot-noise limit.  
 
