@@ -74,7 +74,7 @@ The imaging performance of the ANDi SC source is also tested on a mouse retina, 
 
 The sensitivity of OCT system is commonly expressed as the signal-noise-ratio for a perfect reflector:
 
-$Sensitivity = SNR_{\max } = {S_{{{\max }^2}}}/(\sigma _{r + d}^2 + \sigma _{shot}^2 + \sigma _{ex}^2)$
+![image.png](https://i.loli.net/2021/07/18/4oL38nkJGbBxfOc.png)
 
  where $SNR_{\max }$ is the maximum of the detected point spread function of the reflector, and the sigmas are the respective noise contributions from spectrometer, shot noise and excess noise from the SC source. 
 
