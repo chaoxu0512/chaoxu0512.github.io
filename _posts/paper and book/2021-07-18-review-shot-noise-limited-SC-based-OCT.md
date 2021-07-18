@@ -6,7 +6,7 @@ date:       2021-07-18
 author:     Chao Xu
 header-style: text
 hidden: false 
-mathjax: false
+mathjax: true
 catalog: true
 tags:
     - Paper and Book
