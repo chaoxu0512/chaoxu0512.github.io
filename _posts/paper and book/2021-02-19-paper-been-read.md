@@ -14,6 +14,8 @@ tags:
 
 
 
+(19) 2021-07-26: [Machine learning and applications in ultrafast photonics](https://ui.adsabs.harvard.edu/link_gateway/2021NaPho..15...91G/doi:10.1038/s41566-020-00716-4)
+
 (18) 2021-07-17: [DeepSTORM3D: dense 3D localization microscopy and PSF design by deep learning](https://doi.org./10.1038/s41592-020-0853-5)
 
 (17) 2021-07-15: [Deep-Learning-Based Virtual Refocusing of Images Using an Engineered Point-Spread Function](https://pubs.acs.org/action/showCitFormats?doi=10.1021/acsphotonics.1c00660&ref=pdf)
