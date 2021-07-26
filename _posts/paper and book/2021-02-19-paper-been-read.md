@@ -12,11 +12,53 @@ tags:
     - Paper and Book
 ---
 
+(20) 2021-07-27: [Theranostic OCT microneedle for fast ultrahigh-resolution deep-brain imaging and efficient laser ablation in vivo](https://www.ncbi.nlm.nih.gov/pubmed/32300661)
+
+To be read~
+
+> <u>Machine learning optics:</u>
+>
+> Deep learning in holography and coherent imaging
+>
+> Extended depth-of-field in holographic imaging using deep-learning-based autofocusing and phase recovery
+>
+> <u>Adaptive optics:</u>
+>
+> High-resolution two-photon transcranial imaging of brain using direct wavefront sensing
+>
+> <u>Endoscopic OCT:</u>
+>
+> Diffractive catheter for ultrahigh-resolution spectral-domain volumetric OCT imaging (read before)
+>
+> Broadband rotary joint for high-speed ultrahigh-resolution endoscopic OCT imaging at 800 nm (read before)
+>
+> <u>OCT sensitivity:</u>
+>
+> Sensitivity advantage of swept source and Fourier domain optical coherence tomography
+>
+> Analytical model of spectrometer-based two-beam spectral interferometry
+>
+> Noise of supercontinuum sources in spectral domain optical coherence tomography
+>
+> Optimal operational conditions for supercontinuum-based ultrahigh-resolution endoscopic OCT imaging (read before)
+>
+>  <u>Optical attenuation:</u>
+>
+> Robust and fast characterization of OCT-based optical attenuation using a novel frequency-domain algorithm for brain cancer detection
+>
+> Depth-resolved model-based reconstruction of attenuation coefficients in optical coherence tomography
+>
+> Characterizing optical properties of nano contrast agents by using cross-referencing OCT imaging
+
+
+
+
+
 
 
 (19) 2021-07-26: [Machine learning and applications in ultrafast photonics](https://ui.adsabs.harvard.edu/link_gateway/2021NaPho..15...91G/doi:10.1038/s41566-020-00716-4)
 
-(18) 2021-07-17: [DeepSTORM3D: dense 3D localization microscopy and PSF design by deep learning](https://doi.org./10.1038/s41592-020-0853-5)
+(18) 2021-07-17: [DeepSTORM3D: dense 3D localization microscopy and PSF design by deep learning](https://doi.or--./10.1038/s41592-020-0853-5)
 
 (17) 2021-07-15: [Deep-Learning-Based Virtual Refocusing of Images Using an Engineered Point-Spread Function](https://pubs.acs.org/action/showCitFormats?doi=10.1021/acsphotonics.1c00660&ref=pdf)
 
