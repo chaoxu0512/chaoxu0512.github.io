@@ -42,13 +42,13 @@ To be read~
 >
 > <u>Adaptive optics:</u>
 >
-> High-resolution two-photon transcranial imaging of brain using direct wavefront sensing
+> ~~High-resolution two-photon transcranial imaging of brain using direct wavefront sensing~~
 >
 > <u>Endoscopic OCT:</u>
 >
-> Diffractive catheter for ultrahigh-resolution spectral-domain volumetric OCT imaging (read before)
+> ~~Diffractive catheter for ultrahigh-resolution spectral-domain volumetric OCT imaging (read before)~~
 >
-> Broadband rotary joint for high-speed ultrahigh-resolution endoscopic OCT imaging at 800 nm (read before)
+> ~~Broadband rotary joint for high-speed ultrahigh-resolution endoscopic OCT imaging at 800 nm (read before)~~
 >
 > <u>OCT sensitivity:</u>
 >
