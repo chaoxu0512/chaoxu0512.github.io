@@ -14,9 +14,33 @@ tags:
 
 
 
-(23) 2021-08-03: Estimation and compensation of dispersion for a high-resolution optical coherence tomography system
+(23) 2021-08-03: 
 
+- Estimation and compensation of dispersion for a high-resolution optical coherence tomography system
 
+To be read~
+
+> <u>Dispersion:</u> 
+>
+> High-speed phase- and group-delay scanning with a grating-based phase control delay line 
+>
+>  Dual-fiber stretcher as a tunable dispersion compensator for an all-fiber optical coherence tomography system 
+>
+>  Dispersion compensation in high-speed optical coherence tomography by acousto-optic modulation 
+>
+>  Dispersion compensation in Fourier domain optical coherence tomography  
+>
+> Dispersion compensation for FD-OCT using spectrum reconstruction  
+>
+> Dispersion compensation in Fourier domain optical coherence tomography using the fractional Fourier transform  
+>
+> Demonstration of tolerance to dispersion of master/slave interferometry  
+>
+> Extracting and compensating dispersion mismatch in ultrahigh-resolution Fourier domain OCT imaging of the retina   
+>
+> Ultrahigh-resolution high-speed retinal imaging using spectral-domain optical coherence tomography  
+>
+> Spectral calibration in spectral domain optical coherence tomography  
 
 (22) 2021-07-28: 
 
