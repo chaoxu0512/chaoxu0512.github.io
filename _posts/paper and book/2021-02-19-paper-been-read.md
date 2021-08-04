@@ -12,11 +12,13 @@ tags:
     - Paper and Book
 ---
 
+(24) 2021-08-04:
 
+- Spectral calibration in spectral domain optical coherence tomography  (not finished yet)
 
 (23) 2021-08-03: 
 
-- Estimation and compensation of dispersion for a high-resolution optical coherence tomography system
+- Estimation and compensation of dispersion for a high-resolution optical coherence tomography system (to be simulated)
 
 To be read~
 
@@ -40,7 +42,7 @@ To be read~
 >
 > Ultrahigh-resolution high-speed retinal imaging using spectral-domain optical coherence tomography  
 >
-> Spectral calibration in spectral domain optical coherence tomography  
+> ~~Spectral calibration in spectral domain optical coherence tomography~~  
 
 (22) 2021-07-28: 
 
@@ -48,7 +50,7 @@ To be read~
 
 - Broadband rotary joint for high-speed ultrahigh-resolution endoscopic OCT imaging at 800 nm
 
-- Compensating spatially dependent dispersion in visible light OCT (Not finished yet)
+- Compensating spatially dependent dispersion in visible light OCT
 
 To be read~
 
