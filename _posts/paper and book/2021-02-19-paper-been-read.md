@@ -12,6 +12,10 @@ tags:
     - Paper and Book
 ---
 
+(25) 2021-08-05:
+
+- [Monolithic fiberoptic probes enable medical imaging with OCT](https://www.laserfocusworld.com/detectors-imaging/article/16556823/optical-coherence-tomography-monolithic-fiberoptic-probes-enable-medical-imaging-with-oct)
+
 (24) 2021-08-04:
 
 - Spectral calibration in spectral domain optical coherence tomography  (not finished yet)
