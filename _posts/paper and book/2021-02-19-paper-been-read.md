@@ -12,6 +12,16 @@ tags:
     - Paper and Book
 ---
 
+(26)2021-08-06:
+
+- [Ultrahigh-resolution high-speed retinal imaging using spectral-domain optical coherence tomography](https://www.ncbi.nlm.nih.gov/pubmed/19475080) (to be read again about the sensitivity) 
+
+To be read~
+
+> Optimization for Axial Resolution, Depth Range, and Sensitivity of Spectral Domain Optical Coherence Tomography at 1.3 microns
+>
+> In vivo high-resolution video-rate spectral-domain optical coherence tomography of the human retina and optic nerve
+
 (25) 2021-08-05:
 
 - [Monolithic fiberoptic probes enable medical imaging with OCT](https://www.laserfocusworld.com/detectors-imaging/article/16556823/optical-coherence-tomography-monolithic-fiberoptic-probes-enable-medical-imaging-with-oct)
@@ -122,8 +132,7 @@ Not finished yet.
 
 > The polarization state of the sample and reference arm was carefully managed by using polarization controllers to maximize the interference fringe contrast.
 
-> The fluctuation in the double-pass coupling efficiency was measured by connecting a short piece (∼5 cm long) of flat
-> cleaved fiber to the rotary arm. The fluctuation of backreflected light intensity from the fiber tip during circumferential  scanning was measured to be less than ±2% at a speed of 5 revolution/s (rps).   
+> The fluctuation in the double-pass coupling efficiency was measured by connecting a short piece (∼5 cm long) of flat cleaved fiber to the rotary arm. The fluctuation of backreflected light intensity from the fiber tip during circumferential  scanning was measured to be less than ±2% at a speed of 5 revolution/s (rps).   
 
 (14) 2021-07-04: [Improved signal-to-noise ratio in spectral-domain compared with time-domain optical coherence tomography](https://doi.org/10.1364/OL.28.002067)
 
