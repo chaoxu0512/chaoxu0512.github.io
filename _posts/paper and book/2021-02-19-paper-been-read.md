@@ -12,6 +12,12 @@ tags:
     - Paper and Book
 ---
 
+(27) 2021-08-12: Depth-resolved model-based reconstruction of attenuation coefficients in optical coherence tomography (to be read again, not fully understand)
+
+To be read~
+
+> Optical phantoms of varying geometry based on thin building blocks with controlled optical properties
+
 (26)2021-08-06:
 
 - [Ultrahigh-resolution high-speed retinal imaging using spectral-domain optical coherence tomography](https://www.ncbi.nlm.nih.gov/pubmed/19475080) (to be read again about the sensitivity) 
@@ -106,7 +112,7 @@ To be read~
 >
 > Robust and fast characterization of OCT-based optical attenuation using a novel frequency-domain algorithm for brain cancer detection
 >
-> Depth-resolved model-based reconstruction of attenuation coefficients in optical coherence tomography
+> ~~Depth-resolved model-based reconstruction of attenuation coefficients in optical coherence tomography~~
 >
 > Characterizing optical properties of nano contrast agents by using cross-referencing OCT imaging
 
