@@ -12,6 +12,8 @@ tags:
     - Paper and Book
 ---
 
+(28) 2021-08-13: High-resolution OCT balloon imaging catheter with astigmatism correction
+
 (27) 2021-08-12: Depth-resolved model-based reconstruction of attenuation coefficients in optical coherence tomography (to be read again, not fully understand)
 
 To be read~
