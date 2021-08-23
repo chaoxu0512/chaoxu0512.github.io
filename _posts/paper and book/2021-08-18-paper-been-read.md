@@ -12,6 +12,14 @@ tags:
     - Paper and Book
 ---
 
+(32) 2021-08-21:
+
+- Sub-micrometre accurate free-form optics by three-dimensional printing on single-mode fibres (Not finished)
+
+  > During 3D printing, why high resolution photoresist (IP-Dip) is used for the lower part (close to the fibre end), while low resolution photoresist (IP-S) for the upper part (far from the fibre end)?
+
+- Photonic-dispersion neural networks for inverse scattering problems
+
 (31) 2021-08-20:
 
 - Two-photon direct laser writing of ultracompact multi-lens objectives
