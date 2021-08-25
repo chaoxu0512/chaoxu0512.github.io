@@ -12,6 +12,11 @@ tags:
     - Paper and Book
 ---
 
+(34) 2021-08-25: 
+
+- Microstructured gradient-index antireflective coating fabricated on a fiber tip with direct laser writing
+- Direct laser writing of volumetric gradient index lenses and waveguides (Not finished)
+
 (33) 2021-08-24:
 
 - Inverse Design and 3D Printing of a Metalens on an Optical Fiber Tip for Direct Laser Lithography
