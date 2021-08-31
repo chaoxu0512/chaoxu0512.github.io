@@ -12,6 +12,11 @@ tags:
     - Paper and Book
 ---
 
+(35) 2021-08-31:
+
+- Two-photon polymerisation 3D printed freeform micro-optics for optical coherence tomography fibre probes (Some confusion)
+- Resolution dependence on phase extraction by the Hilbert transform in phase calibrated and dispersion compensated ultrahigh resolution spectrometer-based OCT (method needs to be verified)
+
 (34) 2021-08-25: 
 
 - Microstructured gradient-index antireflective coating fabricated on a fiber tip with direct laser writing
