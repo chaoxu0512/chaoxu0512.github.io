@@ -12,6 +12,10 @@ tags:
     - Paper and Book
 ---
 
+(36) 2021-09-06:
+
+- 3D printed hybrid refractive/diffractive achromat and apochromat for the visible wavelength range (Not so optimal)
+
 (35) 2021-08-31:
 
 - Two-photon polymerisation 3D printed freeform micro-optics for optical coherence tomography fibre probes (Some confusion)
