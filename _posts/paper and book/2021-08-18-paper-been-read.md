@@ -12,6 +12,15 @@ tags:
     - Paper and Book
 ---
 
+(37) 2021-09-07:
+
+- High-sensitivity anastigmatic imaging needle for optical coherence tomography
+
+> Cylindrical tube doesn't necessary make the working distance shorter along azimuthal direction.
+
+- Optical properties of photoresists for femtosecond 3D printing: refractive index, extinction, luminescence-dose dependence, aging, heat treatment and comparison between 1-photon and 2-photon exposure
+- Real-time numerical dispersion compensation using graphics processing unit for Fourier-domain optical coherence tomography
+
 (36) 2021-09-06:
 
 - 3D printed hybrid refractive/diffractive achromat and apochromat for the visible wavelength range (Not so optimal)
