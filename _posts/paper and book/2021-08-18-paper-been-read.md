@@ -12,6 +12,14 @@ tags:
     - Paper and Book
 ---
 
+
+
+(38) 2021-09-08:
+
+- Stitching-free 3D printing of millimeter-sized highly transparent spherical and aspherical optical components
+
+> What is stitching? How it works? What is its effect?
+
 (37) 2021-09-07:
 
 - High-sensitivity anastigmatic imaging needle for optical coherence tomography
