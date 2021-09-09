@@ -12,7 +12,17 @@ tags:
     - Paper and Book
 ---
 
+(39) 2021-09-09:
 
+- Super-achromatic optical coherence tomography capsule for ultrahigh-resolution imaging of esophagus
+
+- Exposure-dependent refractive index of Nanoscribe IP-Dip photoresist layers
+
+- Ultrafast multi-focus 3-D nano-fabrication based on two-photon polymerization
+
+- Ultrathin fiber probes with extended depth of focus for optical coherence tomography
+
+  > Use phase mask to increase the depth of focus
 
 (38) 2021-09-08:
 
