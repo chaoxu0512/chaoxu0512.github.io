@@ -12,6 +12,18 @@ tags:
     - Paper and Book
 ---
 
+(40) 2021-09-13:
+
+- "Coherence radar" and "spectral radar"-new tools for dermatological diagnosis
+
+  > Basic principle of FDOCT, need to understand
+
+- In vivo human retinal imaging by Fourier domain optical coherence tomography
+
+  > How to measure the dynamic range of Differential FFT OCT system
+
+- Astigmatism Corrected Common Path Probe for Optical Coherence Tomography
+
 (39) 2021-09-09:
 
 - Super-achromatic optical coherence tomography capsule for ultrahigh-resolution imaging of esophagus
