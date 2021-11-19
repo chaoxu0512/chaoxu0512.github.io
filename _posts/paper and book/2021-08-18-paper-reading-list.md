@@ -12,6 +12,12 @@ tags:
     - Paper and Book
 ---
 
+
+
+(42) 2021-11-19:
+
+- Fiber-tip polymer clamped-beam probe for high-sensitivity nanoforce measurements
+
 (41) 2021-09-19: 
 
 - Millimeter-scale chip-based supercontinuum generation for optical coherence tomography
