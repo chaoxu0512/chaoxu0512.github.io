@@ -17,5 +17,5 @@ It is not the first time that I read the paper "Fabrication of freeform optical 
 
 1. The first question is how to obtain the value of the interfacial energy $\gamma$ between two liquids? Is it measured from the experiments? or is it only a  variable used in the analytical simulation? This interfacial energy is used to calculate the Bond number in the simulation. For now, I prefer the second option. 
 
-{$B o=\frac{R_{0}^{2}}{\ell_{c}^{2}}=\frac{|\Delta \rho| g R_{0}^{2}}{\gamma}$}
+${ B o=\frac{R_{0}^{2}}{\ell_{c}^{2}}=\frac{|\Delta \rho| g R_{0}^{2}}{\gamma} }$
 
