@@ -49,15 +49,15 @@ $$
 
 5. I still have one math calculation to be done. How to get the equation (which is the Helmholtz equation)
    
-   $\tilde{H} x^{2}+x^{2} \tilde{H}_{x x}+x \tilde{H}_{x}+\tilde{H}_{\Theta \Theta}=0$
+   $$\tilde{H} x^{2}+x^{2} \tilde{H}_{x x}+x \tilde{H}_{x}+\tilde{H}_{\Theta \Theta}=0$$
    
    from 
    
-   $(-H+P) B o R^{2}-\frac{H_{R R}\left(R^{2}+\varepsilon H_{\Theta}^{2}\right)+\left(R H_{R}+H_{\Theta \Theta}\right)\left(1+\varepsilon H_{R}^{2}\right)-2 \varepsilon H_{\Theta} H_{R} H_{R \Theta}+\frac{2}{R} \varepsilon H_{R} H_{\Theta}^{2}}{\left(1+\varepsilon H_{R}^{2}+\frac{\varepsilon}{R^{2}} H_{\Theta}^{2}\right)^{3 / 2}}=0$
+   $$(-H+P) B o R^{2}-\frac{H_{R R}\left(R^{2}+\varepsilon H_{\Theta}^{2}\right)+\left(R H_{R}+H_{\Theta \Theta}\right)\left(1+\varepsilon H_{R}^{2}\right)-2 \varepsilon H_{\Theta} H_{R} H_{R \Theta}+\frac{2}{R} \varepsilon H_{R} H_{\Theta}^{2}}{\left(1+\varepsilon H_{R}^{2}+\frac{\varepsilon}{R^{2}} H_{\Theta}^{2}\right)^{3 / 2}}=0$$
    
    The solution of the Helmholtz equation is, 
    
-   $\tilde{H}(x, \theta)=\sum_{n=0}^{\infty} A_{n} J_{n}(x) \cos (n \Theta)+\sum_{n=1}^{\infty} B_{n} J_{n}(x) \sin (n \Theta)$
+   $$\tilde{H}(x, \theta)=\sum_{n=0}^{\infty} A_{n} J_{n}(x) \cos (n \Theta)+\sum_{n=1}^{\infty} B_{n} J_{n}(x) \sin (n \Theta)$$
    
    Check the solution from: A. D. Polyanin and V. E. Nazaikinskii, Handbook of Linear Partial Differential Equations (Taylor and Francis, 2016).
 
