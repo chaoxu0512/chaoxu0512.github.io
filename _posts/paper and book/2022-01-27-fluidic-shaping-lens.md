@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Fluidic shaping lens
+title:      Fluidic_shaping_lens
 subtitle:   
 date:       2022-01-27
 author:     Chao Xu
