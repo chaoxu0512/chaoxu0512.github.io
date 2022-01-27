@@ -49,7 +49,7 @@ $$
 
 5. I still have one math calculation to be done. How to get the equation (which is the Helmholtz equation)
    
-   $$\tilde{H} x^{2}+x^{2} \tilde{H}_{x x}+x \tilde{H}_{x}+\tilde{H}_{\Theta \Theta}=0$$
+   
    
    from 
    
